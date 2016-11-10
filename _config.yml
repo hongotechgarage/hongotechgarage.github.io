@@ -26,7 +26,10 @@ github_username:  hongotechgarage
 markdown: kramdown
 theme: minima
 gems:
+  - jemoji
+  - jekyll-mentions
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
