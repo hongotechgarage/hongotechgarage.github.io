@@ -1,5 +1,5 @@
 ---
-layout: project_form
+layout: page
 title: About
 permalink: /about/
 ---
