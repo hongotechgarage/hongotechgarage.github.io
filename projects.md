@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects - 東京大学本郷テックガレージ
+title: Projects
 permalink: /projects/
 ---
 

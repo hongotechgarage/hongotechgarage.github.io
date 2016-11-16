@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resource - 東京大学本郷テックガレージ
+title: Resource
 permalink: /resource/
 ---
 

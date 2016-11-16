@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - 東京大学本郷テックガレージ
+title: About
 permalink: /about/
 ---
 
