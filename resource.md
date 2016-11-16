@@ -25,3 +25,4 @@ permalink: /resource/
 
 - [Y Combinator](http://www.ycombinator.com/)
 - [The Macro](http://www.themacro.com/)
+- [スライド](http://www.slideshare.net/takaumada/presentations)
