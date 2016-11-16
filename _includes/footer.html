@@ -14,7 +14,7 @@
             </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+            {% endif %}            
         </ul>
       </div>
 
@@ -31,6 +31,17 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.facebook_username %}
+          <li>
+            {% include icon-facebook.html username=site.facebook_username %}
+          </li>
+          {% endif %}
+
+          <li>
+            <a href="./feed.xml">RSS</a>
+          </li>
+
         </ul>
       </div>
 
