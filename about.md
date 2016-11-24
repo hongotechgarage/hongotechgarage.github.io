@@ -36,6 +36,7 @@ permalink: /about/
 - PC
     - CAD 用 PC
     - VR 用 PC
+
 ### 3D Printer
 - UP Plus2　×1台
 
