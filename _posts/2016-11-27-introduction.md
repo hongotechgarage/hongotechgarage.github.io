@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supporters
+title: 本郷テックガレージ利用の順序
 permalink: /intro/
 ---
 
