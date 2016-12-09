@@ -3,6 +3,7 @@ layout: page
 title: テックガレージ設備環境ハッカソンを実施しました
 date:   2016-11-26 12:00:00 +0900
 categories: news
+author: toshimo
 ---
 
 ##開催概要
