@@ -39,6 +39,7 @@ permalink: /about/
 
 ### 3D Printer
 - UP Plus2　×1台
+- Up Box+ x1台
 
 ### レーザーカッター
 - UNIVERSAL VLS4.60 30W　×１台
