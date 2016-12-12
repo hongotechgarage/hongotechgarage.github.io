@@ -22,6 +22,7 @@ url: "http://www.hongotechgarage.com" # the base hostname & protocol for your si
 twitter_username: hongotechgarage
 #github_username:  hongotechgarage
 facebook_username: hongotechgarage
+paginate: 10
 
 # Build settings
 markdown: kramdown
