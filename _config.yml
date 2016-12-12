@@ -32,6 +32,7 @@ gems:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
