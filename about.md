@@ -12,6 +12,8 @@ permalink: /about/
 
 ### 住所
 
+〒113-0033
+
 東京都文京区本郷5-24-5 角川本郷ビル 2F ([Google Map](https://goo.gl/maps/jweyFvu4e7q))
 
 # 利用に関して
