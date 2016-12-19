@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "冬休みを使った技術プロジェクトをしたい方へ"
+title:  "冬休み期間中、技術プロジェクトをしたい東大生募集中"
 date:   2016-12-19 15:00:00 +0900
 categories: news
 author: tumada
