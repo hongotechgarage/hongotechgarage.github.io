@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "京でものづくりをする学生を対象とした交流会を開催します！"
+title:  "東京でものづくりをする学生を対象とした交流会を開催します！"
 date:   2016-12-21 15:00:00 +0900
 categories: news
 author: hirohata
@@ -31,15 +31,13 @@ author: hirohata
 東京大学の学生がサイドプロジェクトを行うための秘密基地です。
 制作のためのスペースや機器がそろっており、
 リラックスしながらスピーディにものづくりに取り組める環境が用意されています。
-http://www.hongotechgarage.com/
 
-##関連イベント
+[http://www.hongotechgarage.com/](http://www.hongotechgarage.com/)
+
+## 関連イベント
 
 本郷テックガレージでは様々なものづくり関連イベントを開催しております。
 こちらも合わせて参加をご検討ください！
 
-- 本郷テックガレージ年末ハッカソン(12/26-28)
-　https://www.eventbrite.com/e/30113948631
-- IPA 未踏 2017 応募準備会 & 説明会(12/27)
-　https://www.eventbrite.com/e/ipa-2017-tickets-30241151097
- 
+- [本郷テックガレージ年末もくもく会(12/26-28)](https://www.eventbrite.com/e/30113948631)
+- [IPA 未踏 2017 応募準備会 & 説明会(12/27)](https://www.eventbrite.com/e/ipa-2017-tickets-30241151097)
