@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "東京でものづくりをする学生を対象とした交流会を開催します！"
+title:  "12/26 に東京でものづくりをする学生を対象とした交流会を開催します！"
 date:   2016-12-21 15:00:00 +0900
 categories: news
 author: hirohata
