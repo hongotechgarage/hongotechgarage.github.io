@@ -57,8 +57,8 @@ permalink: /about/
     - 24 インチ x 3
     - 21 インチ x 2
 - PC
-    - CAD 用 PC
-    - VR 用 PC
+    - CAD 用 PC (Quadro K620)
+    - VR 用 PC (GeForce GTX 1060 + GTX 760)
 
 ### 3D Printer
 - UP Plus2　×1台
