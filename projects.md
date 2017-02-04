@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mailinglist
 title: Projects
 permalink: /projects/
 ---
