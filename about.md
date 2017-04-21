@@ -53,7 +53,6 @@ permalink: /about/
 - 共有技術書購入
 - チームメンバー募集協力
 
-
 # 機材と工作機械
 
 ### PC 環境
@@ -69,8 +68,8 @@ permalink: /about/
     - VR 用 PC (GeForce GTX 1060 + GTX 760)
 
 ### 3D Printer
-- UP Plus2　×1台
-- Up Box+ x1台
+- UP Plus2　× 1台
+- Up Box+ x 2台
 
 ### レーザーカッター
 - UNIVERSAL VLS4.60 30W　×１台
