@@ -6,8 +6,6 @@ permalink: /resource/
 
 # 本郷テックガレージのリソース
 - [ガレージで利用可能な機材リスト](../about/)
-- [プロジェクト支援金申請フォーム](https://hongotechgarage.typeform.com/to/aggjBA)
-- [勉強会支援金申請フォーム](https://hongotechgarage.typeform.com/to/f1MFPB)
 
 # 各種リソースへのリンク
 
