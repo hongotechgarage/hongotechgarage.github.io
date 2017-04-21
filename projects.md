@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
-title: Projects
-permalink: /projects/
+title: Project
+permalink: /project/
 ---
 
 # 通年プロジェクトの新規申請
@@ -33,6 +33,11 @@ Project Fund や Tinkering Fund に応募するかどうか迷っている方、
 # 期間限定の Summer / Spring Founders Program (SFP)
 
 夏休みと春休みに行われる、数十万円を支援するプログラムとして SFP を設けています。こちらは時期になり次第随時告知いたします。
+
+
+# 公共プロジェクト
+
+本郷テックガレージを良くするための公共プロジェクトを実施しています。
 
 # まだアイデアがない人
 
