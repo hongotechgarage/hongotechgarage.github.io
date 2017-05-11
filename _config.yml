@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 東京大学 本郷テックガレージ
-email: contact@hongotechgarage.com
+email: contact@hongotechgarage.jp
 description: > # this means to ignore newlines until "baseurl:"
   本郷テックガレージは東京大学の学生がサイドプロジェクトを行うための秘密基地です
 baseurl: "" # the subpath of your site, e.g. /blog
