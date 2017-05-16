@@ -15,7 +15,7 @@ permalink: /project/
 1. Tinkering Fund (数日〜 4 週間ぐらいのプロジェクト)
 1. Project Fund (1 ヶ月間ぐらいのプロジェクト)
 1. Founders Program (夏休み/春休みのプロジェクト)
-1. ガレージ公共プロジェクト
+1. (ガレージ公共プロジェクト)
 
 **1. Tinkering Fund**
 
