@@ -41,7 +41,9 @@ permalink: /project/
 
 **3. 期間限定の Summer / Spring Founders Program (SFP)**
 
-夏休みと春休みに行われる、数十万円を支援するプログラムとして SFP を設けています。こちらは時期になり次第随時告知いたします。
+夏休みと春休みに行われる、数十万円を支援するプログラムとして SFP を設けています。
+
+それぞれ夏休み前と春休み前に、[産学協創推進本部の Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)で募集しています。
 
 ## ガレージ公共プロジェクト
 
