@@ -1,10 +1,10 @@
 ---
 layout: mailinglist
-title: Membership
-permalink: /membership/
+title: Community
+permalink: /community/
 ---
 
-# 本郷テックガレージの利用方法 (メンバーシップ)
+# 本郷テックガレージのコミュニティ
 
 本郷テックガレージは、現役の東京大学の学生を中心に利用いただいています。
 
@@ -37,6 +37,13 @@ permalink: /membership/
 登録応募は以下のフォームから行ってください。
 
 [-> メンバーシップ登録応募フォーム](https://goo.gl/forms/ba1D3ONLqqo3lyTH3)
+
+## 自主勉強会の開催
+
+本郷テックガレージでは、学生による自主的な勉強会の開催を支援しています。
+
+
+
 
 ## FAQ
 
