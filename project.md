@@ -39,11 +39,14 @@ permalink: /project/
 
 [-> Project Fund 申請フォーム](https://goo.gl/forms/GDY1ZduycrfHG4XD3)
 
-**3. 期間限定の Summer / Spring Founders Program (SFP)**
+**3. 長期休み限定の Summer / Spring Founders Program (SFP)**
 
-夏休みと春休みに行われる、数十万円を支援するプログラムとして SFP を設けています。
+夏休みと春休みに行われる、数十万円を支援するプログラムとして SFP を設けています。開発からデプロイまでを実施いただきます。
 
 それぞれ夏休み前と春休み前に、[産学協創推進本部の Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)で募集しています。
+
+なお、Tinkering Fund や Project Fund に採択されたプロジェクトも SFP に応募いただけます。
+
 
 ## ガレージ公共プロジェクト
 
@@ -118,3 +121,8 @@ permalink: /project/
 - コミュニケーションをファシリテートするボット
 - 様々なデバイスの操作を行える笛型デバイス
 - 研究成果を活かしたセンサネットワークの Arduino 実装
+- 新しい測定法を用いた距離メーター
+- パーソナルモビリティを意識した新しいサスペンション機構
+
+
+
