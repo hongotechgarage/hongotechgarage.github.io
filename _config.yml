@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 東京大学 本郷テックガレージ
-email: contact@hongotechgarage.com
+email: contact@hongotechgarage.jp
 description: > # this means to ignore newlines until "baseurl:"
   本郷テックガレージは東京大学の学生がサイドプロジェクトを行うための秘密基地です
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,6 +22,8 @@ url: "http://www.hongotechgarage.com" # the base hostname & protocol for your si
 twitter_username: hongotechgarage
 #github_username:  hongotechgarage
 facebook_username: hongotechgarage
+google_analytics: UA-88969720-1
+paginate: 10
 
 # Build settings
 markdown: kramdown
@@ -31,6 +33,7 @@ gems:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
