@@ -1,6 +1,6 @@
 ---
 layout: mailinglist
-title: Project
+title: PublicProject
 permalink: /project/publicproject
 ---
 
