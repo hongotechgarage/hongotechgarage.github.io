@@ -1,5 +1,5 @@
 ---
-layout: mailinglist
+layout: default
 title: PublicProject
 permalink: /project/publicproject
 ---
