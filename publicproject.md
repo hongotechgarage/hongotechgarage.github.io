@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: mailinglist
 title: PublicProject
 permalink: /project/publicproject
 ---
 
-# HTG公共プロジェクト
-本郷テックガレージで公共のプロジェクトを行っています。
+## 本郷テックガレージ公共プロジェクト
+本郷テックガレージでは公共のプロジェクトを行っています。
+
+公共プロジェクトに参加することによっても、メンバーシップへの登録が可能となります。
 
 まだガレージを利用したことがない方も是非ご参加ください！！
 
@@ -16,7 +18,7 @@ permalink: /project/publicproject
 
 ## プロジェクト一覧
 ### "N"を使ったプロジェクト
-- Leader: 新城光樹
+- Leader : 新城光樹
 - Sony Future Lab Programのコンセプトプロト"N"を利用した様々なアプリケーションを作ります
 - アイデア出しから実装まで全ての段階で関わって頂ける人募集中です！
 
