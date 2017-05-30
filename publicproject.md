@@ -13,8 +13,8 @@ permalink: /project/publicproject
 
 ## 参加方法
 - まず以下のフォームよりご登録ください
-[-> 公共プロジェクト登録フォーム](https://goo.gl/forms/lDjwfJXAWroI9MtH3)
 
+  [-> 公共プロジェクト登録フォーム](https://goo.gl/forms/lDjwfJXAWroI9MtH3)
 
 - その後、各プロジェクトのマネージャーより参加可否の連絡が行きます
 - プロジェクト参加が決まりましたら、コミュニティメンバーの方にもご登録ください
