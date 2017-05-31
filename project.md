@@ -54,6 +54,7 @@ permalink: /project/
 
 現在やりたいプロジェクトはないけれど、本郷テックガレージを使いたいという方は公共プロジェクトにご参加ください。現在の公共プロジェクトは以下のとおりです。
 
+- [Nによる未来のアプリケーション開発](https://www.hongotechgarage.com/news/2017/05/31/N.html)
 - ガレージ管理用 Slack ボット開発
 - Slack ログの Markdown 化
 - 合成生物学機材調査
