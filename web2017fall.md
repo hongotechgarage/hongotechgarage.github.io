@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
 title: Web サービス開発プログラム
-permalink: /program/web/
+permalink: /program/web2017/
 ---
 # バイト代わりに月9万円を稼ぐWebサービスを開発する
 
