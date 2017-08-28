@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web サービス開発プログラム
+title: Web サービス開発短期集中プログラム
 permalink: /program/web2017/
 ---
 
