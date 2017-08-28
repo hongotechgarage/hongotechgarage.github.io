@@ -2,7 +2,6 @@
 layout: mailinglist
 title: Web サービス開発プログラム
 permalink: /program/web/
-published: false
 ---
 # バイト代わりに月9万円を稼ぐWebサービスを開発する
 
