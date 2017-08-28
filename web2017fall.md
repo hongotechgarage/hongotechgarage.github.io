@@ -1,5 +1,5 @@
 ---
-layout: mailinglist
+layout: page
 title: Web サービス開発プログラム
 permalink: /program/web2017/
 ---
@@ -42,7 +42,8 @@ permalink: /program/web2017/
 - 目的地指定したらここのコインパーキング今空いてる
 - バイトシフト管理サービス（[Staffjoy](https://www.staffjoy.com/) の運用と改良）
 - Instagram にタグ付きで自動アップされるカメラ貸出
-
+- 投資家の匿名レビューサイト
+- 学生しかいないベータ版トライアル
 
 ### 考え方
 
@@ -110,7 +111,7 @@ Web サービス作りは初めてでも OK ですが、普段からある程度
 | 9/8 (金) | 15:00 | 19:00 | Kickoff & マップ作成 | 開発 | 
 | 9/15 (金) | 15:00 | 19:00 | 第一回開発状況発表 | 顧客インタビュー | 
 | 9/22 (金) | 17:00 | 19:00 | 顧客インタビュー結果発表 | ピボット判断 or 運用開始 | 
-| 9/29 (金) | 18:00 | 19:00 | 1週間の売上発表と学びの共有 | マーケティング | 
+| 9/29 (金) | 18:00 | 19:00 | 1週間の売上発表と学びの共有 | グロース (マーケ, フィードバック, 開発) | 
 | 10/6 (金) | 18:00 | 19:00 | 2週間の売上最終発表と学びの共有 | - | 
 
 
@@ -126,4 +127,27 @@ Web サービス作りは初めてでも OK ですが、普段からある程度
 #### 応募
 
 [応募フォーム](https://goo.gl/forms/K9WoWnNX8tmVtIDZ2) から応募してください。
+
+
+
+## 参考リンク
+
+### サーベイ方法
+
+- [逆張りマップ](https://medium.com/@tumada/contrarian-workshop-bf4b387cfe8)
+- [サイドプロジェクトチェックリスト](https://www.sideprojectchecklist.com/marketing-checklist/)
+
+#### 便利なサービス
+
+- [Product Hunt](https://www.producthunt.com/)
+- [CrunchBase](https://www.crunchbase.com/)
+- [AngelList](https://angel.co/)
+- [Whatruns](https://whatruns.com/)
+
+### 構成方法（例）
+
+- フロント：好きな JS
+- バックエンド：Firebase
+- 決済周り：Stripe
+- ログイン：Firebase, Auth0
 
