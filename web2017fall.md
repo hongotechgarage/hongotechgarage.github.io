@@ -142,6 +142,7 @@ Web サービス作りは初めてでも OK ですが、普段からある程度
 - [Product Hunt](https://www.producthunt.com/)
 - [CrunchBase](https://www.crunchbase.com/)
 - [AngelList](https://angel.co/)
+- [Betalist](https://betalist.com/)
 - [Whatruns](https://whatruns.com/)
 
 ### 構成方法（例）
