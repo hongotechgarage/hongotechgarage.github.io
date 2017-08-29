@@ -12,6 +12,8 @@ permalink: /program/web2017/
 
 [→ 応募フォーム](https://goo.gl/forms/K9WoWnNX8tmVtIDZ2)
 
+また Web サービスのアイデアを考えるため、[最近の Web サービスについてお話するイベント](https://www.eventbrite.com/e/tgif-dinner-19-web-2017-tickets-37382824033)を 9/1 (金) に開催します。招待制のため、本郷テックガレージに登録経験のある人がお誘いください。
+
 ### 目的
 
 短期間の Web サービス開発を通じて、「人が欲しがるものを作る」ことを経験をします。
