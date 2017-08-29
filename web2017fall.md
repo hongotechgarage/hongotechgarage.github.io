@@ -43,7 +43,6 @@ permalink: /program/web2017/
 - バイトシフト管理サービス（[Staffjoy](https://www.staffjoy.com/) の運用と改良）
 - Instagram にタグ付きで自動アップされるカメラ貸出
 - 投資家の匿名レビューサイト
-- 学生しかいないベータ版トライアル
 
 ### 考え方
 
