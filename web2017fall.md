@@ -146,6 +146,7 @@ Web サービス作りは初めてでも OK ですが、普段からある程度
 - [Betalist](https://betalist.com/)
 - [dribbble](https://dribbble.com/)
 - [Whatruns](https://whatruns.com/)
+- [Siftery](https://siftery.com/)
 
 ### 構成方法（例）
 
