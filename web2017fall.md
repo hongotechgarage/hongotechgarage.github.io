@@ -149,6 +149,8 @@ Web サービス開発には失敗がつきものです。そのため、今回�
 - [Whatruns](https://whatruns.com/)
 - [Siftery](https://siftery.com/)
 
+その他のサーベイ方法は [「既存 Web サービスのサーベイ手法」](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2) をご覧ください。
+
 ### 構成方法（例）
 
 - フロント：好きな JS
