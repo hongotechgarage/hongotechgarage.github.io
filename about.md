@@ -62,14 +62,20 @@ permalink: /about/
 ### PC 環境
 
 - ディスプレイ
-    - 34 インチ x 1
+    - 34 インチ x 2
     - 30 インチ x 1
     - 27 インチ x 1
-    - 24 インチ x 3
+    - 24 インチ x 6
     - 21 インチ x 2
-- PC
-    - CAD 用 PC (Quadro K620)
+- 共用 PC
+    - CAD 用 PC (Quadro M6000)
     - VR 用 PC (GeForce GTX 1060 + GTX 760)
+    - 機械学習用 PC (Titan X Pascal x 3 枚 + Core i9 + 64GB)
+    - 汎用 PC (Titan X Pascal + Ryzen + 32GB)
+- VR 用
+    - HTC Vive
+    - HoloLens
+    - FOVE
 
 ### 3D Printer
 - UP Plus2　× 1台
