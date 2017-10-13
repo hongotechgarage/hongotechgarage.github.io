@@ -70,5 +70,5 @@ permalink: /program/fellowship/
 
 ## 応募フォーム
 
-[HTG Pre-Startup Fellowship Program 応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSefElcnZpLdoN4H4mcpILZP23EUATuyDb3GH-ZeQbyTcvG0sA/viewform?usp=sf_link)
+[HTG Pre-Startup Fellowship Program 応募フォーム](https://goo.gl/forms/sbdZqNOcnZY012ss2)
 
