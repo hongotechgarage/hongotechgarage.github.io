@@ -60,6 +60,7 @@ permalink: /program/fellowship/
 1. 神経科学のスタートアップ
 1. Food Tech のスタートアップ
 1. GovTech (政府系) のスタートアップ
+1. 大学発技術を使ったスタートアップ
 
 ## 調査費用の使いみち例
 
