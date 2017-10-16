@@ -16,13 +16,31 @@ permalink: /program/study/
 
 技術に関係する以下のような勉強会を支援しています。
 
-- サーベイや調査会
 - オンライン授業の共同受講
-- ノウハウの伝授
+- 相互勉強会
 
-[-> 勉強会申請フォーム](https://goo.gl/forms/XgzW4XZQ4qJ5ctbh2)
+## オンライン授業の共同受講
 
-# 相談会（随時）
+現在は以下のコースの共同受講を募集しています（2017 年 10 月）。希望するコースも受け付けています。
+
+- Machine Learning (https://www.coursera.org/learn/machine-learning)
+- Neural Networks and Deep Learning (https://www.coursera.org/learn/neural-networks-deep-learning)
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (https://www.coursera.org/learn/deep-neural-network)
+- Neural Networks and Deep Learning (https://www.coursera.org/learn/neural-networks-deep-learning)
+- Structuring Machine Learning Projects (https://www.coursera.org/learn/machine-learning-projects)
+- Bitcoin and Cryptocurrency Technologies (https://www.coursera.org/learn/cryptocurrency)
+- Social and Economic Networks: Models and Analysis (https://www.coursera.org/learn/social-economic-networks)
+- Computational Neuroscience (https://www.coursera.org/learn/computational-neuroscience)
+- Expertise for Professionals and Students in Biotechnology and Biomedical Data Sciences (https://www.coursera.org/specializations/systems-biology)
+- Robotics (https://www.coursera.org/specializations/robotics)
+
+[-> Coursera 勉強会参加者応募フォーム](https://goo.gl/forms/zKFkCSUvpLJ8BiIK2)
+
+## 相互勉強会
+
+[-> 相互勉強会申請フォーム](https://goo.gl/forms/XgzW4XZQ4qJ5ctbh2)
+
+# 勉強会開催の相談（随時）
 
 一度相談したいときには、随時開催されているアイデア相談会をご活用ください。
 
