@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
 title: Study Group
-permalink: /study/
+permalink: /program/study/
 ---
 
 # 技術勉強会の支援
