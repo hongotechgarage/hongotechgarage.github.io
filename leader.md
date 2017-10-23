@@ -4,7 +4,7 @@ title: リーダープログラム
 permalink: /program/leader/
 ---
 
-# リーダープログラム
+# プロジェクトリーダー向け基礎プログラム
 
 [応募フォーム](https://goo.gl/forms/vS0O6zByzRO8EVaj1)
 
