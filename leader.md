@@ -52,5 +52,7 @@ permalink: /program/leader/
 
 ## 応募
 
+締切は 2017 年 11 月 7 日 (火) を予定しています。
+
 [応募フォーム](https://goo.gl/forms/vS0O6zByzRO8EVaj1)
 
