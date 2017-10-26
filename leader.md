@@ -32,7 +32,9 @@ permalink: /program/leader/
 ## メッセージ
 
 
-![スキルマップ](/assets/images/leaderprogram.png)
+### 本コースの全体像
+
+![グラッフィクシラバス](/assets/images/leaderprogram.png)
 
 
 
