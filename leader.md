@@ -147,19 +147,20 @@ B2C マーケティング、B2B マーケティング、セールス、初期顧
 - このコースでは技術的なスキルを身につけることはできません。
 
 
-### Reading List
+## Reading List
 
-#### プロジェクトマネジメント
+### プロジェクトマネジメント
 
-##### [カンバン仕事術]()
+#### [カンバン仕事術]()
+
+カンバンを使ったプロジェクトマネジメントの手法について。
+
+### プロダクトマネジメント
 
 
-#### プロダクトマネジメント
+### Founder
 
-
-#### Founder
-
-##### [Startup Playbook](http://playbook.samaltman.com/)
+#### [Startup Playbook](http://playbook.samaltman.com/)
 
 Sam Altman によるスタートアップ全体のノウハウ
 
