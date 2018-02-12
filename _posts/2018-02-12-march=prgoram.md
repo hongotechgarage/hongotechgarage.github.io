@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2o18 年 3 月のプログラムの予定"
+title:  "2018 年 3 月のプログラムの予定"
 date:   2018-02-12 12:00:00 +0900
 categories: news
 author: tumada
