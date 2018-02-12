@@ -21,7 +21,7 @@ permalink: /program/study/
 
 ## オンライン授業の共同受講
 
-現在は以下のコースの共同受講を募集しています（2017 年 10 月）。希望するコースも受け付けています。
+現在は以下のコースの共同受講を募集しています（2018 年 2 月）。希望するコースも受け付けています。
 
 - Machine Learning (https://www.coursera.org/learn/machine-learning)
 - Neural Networks and Deep Learning (https://www.coursera.org/learn/neural-networks-deep-learning)

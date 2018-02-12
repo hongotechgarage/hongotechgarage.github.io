@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web サービス開発短期集中プログラム
-permalink: /program/web2017/
+permalink: /program/web/
 ---
 
 ## 概要
