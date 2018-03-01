@@ -33,6 +33,7 @@ permalink: /program/study/
 - Computational Neuroscience (https://www.coursera.org/learn/computational-neuroscience)
 - Expertise for Professionals and Students in Biotechnology and Biomedical Data Sciences (https://www.coursera.org/specializations/systems-biology)
 - Robotics (https://www.coursera.org/specializations/robotics)
+- Google Machine Learning Crash Course (https://developers.google.com/machine-learning/crash-course/)
 
 [-> Coursera 勉強会参加者応募フォーム](https://goo.gl/forms/zKFkCSUvpLJ8BiIK2)
 
