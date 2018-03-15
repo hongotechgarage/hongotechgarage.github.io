@@ -82,6 +82,9 @@ section {
       background: #BBBBBB;
       position: relative;
       top: 1px; }
+    section aside #links {
+      margin-left: 10px; 
+    }  
     section aside #genres label {
       display: block;
       cursor: pointer;
