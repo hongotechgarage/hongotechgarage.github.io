@@ -34,7 +34,7 @@ header {
   right: 0;
   z-index: 2; }
   header .searchbox-container {
-    margin-left: 240px;
+    margin-left: 320px;
     max-width: 400px; }
     header .searchbox-container .input-group {
       margin-top: 5px; }
