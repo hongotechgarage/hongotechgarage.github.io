@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
 title: アントレプレナー道場 2018 宿題
-permalink: /dojo/survey/
+permalink: /dojo/2018/survey/
 ---
 # 宿題マニュアル
 

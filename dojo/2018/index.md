@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
 title: アントレプレナー道場 2018
-permalink: /dojo/
+permalink: /dojo/2018/
 ---
 # アントレ道場Web
 
