@@ -42,5 +42,5 @@ CrunchBase でその会社のことを検索すると、ほとんどの場合、
 
 CrunchBase のロゴを使うところから始めてみると良いと思います。画像を右クリックして「画像のアドレスをコピー」すれば画像の URL を取得できます。
 
-![画像のURL](./images/copy_address.PNG "画像のURLをコピー")
+![画像のURL](../images/copy_address.PNG)
 
