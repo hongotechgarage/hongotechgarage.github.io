@@ -81,7 +81,11 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+ h1, h2, h3 {
+  font-weight: $bold-font-weight;
+}
+
+h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
@@ -92,7 +96,7 @@ div.post-content h1 {
 }
 
 div.post-content h2 {
-  font-weight: 1.8em;
+  font-size: 1.8em;
   border-bottom: solid 1px #eee;
 }
 
