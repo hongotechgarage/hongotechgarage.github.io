@@ -43,7 +43,7 @@ permalink: /dojo/2018/
 
 コースの全体像です。数字は何回目かの講義を示しています。S1 では主にスタートアップの初期を、S2 では初期から中期にかけて必要となる知識をゲスト講師とともに説明していきます。
 
-![image.png](../images/graphic_syllabys.jpg)
+![image.png](../images/graphic_syllabys.png)
 
 
 ## 講師からのメッセージ
