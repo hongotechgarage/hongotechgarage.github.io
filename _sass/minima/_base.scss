@@ -214,6 +214,13 @@ pre {
 
 table {
   width: 100%;
+  margin-bottom: 1em;
+
+  border-collapse: collapse;
+  tr, td, th {
+    border-collapse: collapse;
+  }
+
   // Cells
   > thead,
   > tbody,
