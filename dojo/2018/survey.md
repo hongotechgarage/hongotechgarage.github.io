@@ -3,7 +3,7 @@ layout: mailinglist
 title: アントレプレナー道場 2018 宿題マニュアル
 permalink: /dojo/2018/homework/
 ---
-## 海外スタートアップのサーベイ
+## 海外スタートアップのサーベイ方法のヒント
 
 1. 候補となるスタートアップを探します
     1. 探し方は[こちらの記事](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2)を参照してください
