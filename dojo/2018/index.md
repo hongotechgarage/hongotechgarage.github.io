@@ -3,13 +3,10 @@ layout: mailinglist
 title: アントレプレナー道場 2018
 permalink: /dojo/2018/
 ---
-# アントレ道場Web
 
+本ページでは、東京大学アントレプレナーシップ道場の受講生向けのページです。既にアントレ道場に受講登録をされている方向けに、詳しい情報を提供します。
 
-
-東京大学アントレプレナーシップ道場の受講生向けのページです。既にアントレ道場に受講登録をされている方向けに、詳しい情報を提供します。
-
-登録前に必要な情報は http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html を確認してください。
+登録前に必要な情報は [http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html](http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html) を確認してください。
 
 ## アントレプレナーシップとは
 
