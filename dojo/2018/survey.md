@@ -5,8 +5,6 @@ permalink: /dojo/2018/homework/
 ---
 ## 海外スタートアップのサーベイ
 
-## 海外スタートアップのサーベイ
-
 1. 候補となるスタートアップを探します
     1. 探し方は[こちらの記事](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2)を参照してください
 1. 気になる海外スタートアップの名前を見つけたら、[アントレ道場サーチ](https://www.hongotechgarage.com/dojo/search/)を開きます
