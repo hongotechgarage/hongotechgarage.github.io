@@ -769,3 +769,135 @@ FFP の資料です。
 
 **[](https://www.aacu.org/value-rubrics)**
 ルーブリックの参考にしました。
+
+
+## 講師
+
+### 長谷川克也
+
+#### 略歴
+
+1980年
+東京大学工学部物理工学科 卒業
+
+1982年
+東京大学大学院工学系研究科物理工学専攻修士課程 修了
+
+1982-96年
+松下電器産業株式会社（現：パナソニック株式会社） 半導体研究センターにてGaAs LSI,
+ CMOS画像処理LSIの研究開発に従事
+
+1990-92年
+スタンフォード大学 Computer Systems Laboratory 客員研究員として、マイクロプロセッサー
+・アーキテクチャーの研究
+
+1996-97年
+Panasonic Technologies社 半導体研究オフィス室長として、松下電器半導体研究センターの
+米国シリコンバレー分室にてリエゾン活動
+
+1997-02年
+Panasonic Ventures（松下電器のシリコンバレーでのベンチャー・キャピタル機関）にて、
+Principal としてベンチャー・キャピタル投資、新規事業開発に従事
+
+2002-05年
+Venture Connection, LLC 社を設立し、Managing Director として日米企業へのクロス・ボーダー・
+ビジネス・コンサルティングに従事
+
+2005-09年
+早稲田大学 MOT研究所（2006年に戦略マネジメント研究所に名称変更）教授として産学連携業務および
+大学院ビジネススクールにて講義を担当
+
+2009年5月～
+現職にてベンチャー支援及びアントレプレナーシップ教育を担当
+
+#### 講義、委員等
+
+（社）日本半導体ベンチャー協会　理事（2010～2013）
+
+JST（科学技術振興機構）評価委員（2009～）
+
+NEDO（新エネルギー・産業技術総合開発機構）技術委員（2005～）
+経済産業省コーポレート・ベンチャリング推進研究会委員（2008～2009）等各種委員
+
+東京大学大学院工学系研究科技術経営戦略学専攻「Innovation and Entrepreneurship」(2011～)
+東京大学工学部共通科目「アントレプレナーシップ」（2013～）
+北陸先端科学技術大学院大学東京サテライト「オープンイノベーション論」(2011～2015)
+早稲田大学大学院ビジネススクール「IT/エレクトロニクス産業の技術マネジメント」(2005～2007)
+同上「Technology Management in Electronics and IT Industries」(2005～2007)
+
+[https://www.ducr.u-tokyo.ac.jp/organization/innovation_and_entrepreneurship/hasegawa.html](https://www.ducr.u-tokyo.ac.jp/organization/innovation_and_entrepreneurship/hasegawa.html)
+
+### 菅原岳人
+
+#### 略歴
+
+2002年
+
+東京大学経済学部経営学科 卒業
+
+2004年
+
+東京大学大学院経済学研究科 企業・市場専攻 修士課程 修了
+
+2004年-09年
+アイ・ビー・エム ビジネスコンサルティングサービス株式会社
+（現日本IBM）コンサルタント
+
+2009年3月～
+現職
+
+#### 講義
+
+東京大学工学部・大学院工学系研究科 共通科目「アントレプレナーシップ」(2013～)
+東京大学大学院工学系研究科 技術経営戦略学専攻「Innovation and Entrepreneurship」(2011～)
+岩手大学大学院工学系研究科 集中講義「地域連携学特論」(2011)
+東京大学「知的資産経営総括寄付講座」(2009～2011)
+
+[https://www.ducr.u-tokyo.ac.jp/organization/innovation_and_entrepreneurship/sugawara.html](https://www.ducr.u-tokyo.ac.jp/organization/innovation_and_entrepreneurship/sugawara.html)
+
+### 馬田隆明
+
+University of Toronto 卒業後、日本マイクロソフトでの Visual Studio のプロダクトマネージャーを経て、Microsoft Ventures に所属。2016 年 6 月より現職。スタートアップ向けのスライドなどの情報提供を行う。著書に『逆説のスタートアップ思考』。
+
+- [ブログ](https://medium.com/@tumada/)
+- [Slideshare](https://www.slideshare.net/takaumada/presentations)
+
+
+#### 著作
+
+- [逆説のスタートアップ思考]() (2017/03) ([元になったスライド]())
+
+#### 講演
+
+- [Amazon Web Services Startup Day Tokyo 2018](https://aws.amazon.com/jp/startup-day/tokyo/)　特別講演 (2018/03/12) ([講演資料](https://www.slideshare.net/takaumada/xops))
+- [グローバル知財戦略フォーラム 2018](http://www.inpit.go.jp/katsuyo/gippd/forumkokunai/)　基調講演（特許庁主催） (2018/01/23) ([講演資料](https://www.slideshare.net/takaumada/startup-thinking-for-change-1))
+- [商社出身起業家が語る、スタートアップの"共同創業"](https://bnv0117.peatix.com) (2018/01/17)
+- Lean Startup Update! 2018 (2017/12/13) ([講演資料](https://www.slideshare.net/takaumada/lean-startup-book-retrospective-2018))
+- [Global Tech EDGE NEXTシンポジウム　〜世界を変えるビジネスも、スタートはタネ。〜](https://www.sanrenhonbu.tsukuba.ac.jp/20171202sympo/) (モデレーター) (2017/12/02)
+- [Product Manager Conference 2017](http://2017.pmconf.jp) (2017/11/15)
+- [シンポジウム 博士の選択 2017 ～これからの博士・ポスドクのキャリアを考える～](http://www.he.u-tokyo.ac.jp/2017/10/04/4088) (2017/10/28)
+- [本郷スタートアップご近所さん会](https://hongo.club/) (20917/10/07)
+- [日経 D3 Week 2017](http://expo.nikkeibp.co.jp/d3/2017/) (2017/07/27)
+- [２人で共同創業。スタートアップで成功を掴むための法則](https://bnventr0705.peatix.com) (2017/07/05) ([講演資料](https://www.slideshare.net/takaumada/startup-cofounder-skill))
+- [京都大学　超交流会](http://www.johogaku.net/sn2017) (2017/06/17)
+- [未踏ジュニアキャンプ 2018](http://jr.mitou.org/camp/) (2017/04/01)
+- [Japan Product Manager Conference 2016](http://2016.pmconf.jp) (2016/10/24) ([講演資料](https://www.slideshare.net/takaumada/zero-to-product-manager))
+
+その他企業内講演等。
+
+#### 記事
+
+- [スタートアップに「方法論」は必要か？ 大企業にも浸透を始める「リーンスタートアップ」最新トレンドを追う](http://hrnabi.com/2018/03/29/16900/) (2018/03/29)
+- [「見たことないバカバカしいもの」に挑め （日経新聞）](https://www.nikkei.com/article/DGXMZO27571540R00C18A3XY0000/) (2018/03/02)
+- [アイデアを「気づく」センスを磨き、「10年後のフツウ」を創り出せ！——超AI時代を生き延びる逆説的思考③落合陽一×馬田隆明](https://www.businessinsider.jp/post-34694) (2017/06/30)
+- [日本人に足りない経済感覚。林業のスケールで「100年思考」を持て！——超AI時代を生き延びる逆説的思考②落合陽一×馬田隆明](https://www.businessinsider.jp/post-34693) (2017/06/29)
+- [スタートアップに向くのは「反直感的」アイデア——超AI時代を生き延びる逆説的思考①落合陽一×馬田隆明](https://www.businessinsider.jp/post-34679) (2017/06/28)
+- - [シリコンバレーの常識、「逆説のスタートアップ思考」を身につけるには?](https://www.flierinc.com/interview/interview072) (2017/06/07)
+
+#### 講義
+
+- [東京大学 2017年度全学自由研究ゼミナール「ボードゲーム作りを通して起業を学ぶ」](https://www.ducr.u-tokyo.ac.jp/activity/venture/education/seminar.html)
+
+#### Certificate
+
+- 東京大学 Future Faculty Program 第10期修了
