@@ -87,7 +87,7 @@ permalink: /dojo/2018/
 
 数字は何回目かの講義を示しています。S1 では主にスタートアップの初期を、S2 では初期から中期にかけて必要となる知識をゲスト講師とともに説明していきます。
 
-![image.png](https://wiki.hongotechgarage.com/files/5ac72098533831004b0c6994)
+![image.png](./images/graphic_syllabus.png)
 
 
 
