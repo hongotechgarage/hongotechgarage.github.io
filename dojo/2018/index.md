@@ -4,6 +4,7 @@ title: アントレプレナー道場 2018
 permalink: /dojo/2018/
 ---
 
+
 本ページでは、東京大学アントレプレナーシップ道場の受講生向けのページです。既にアントレ道場に受講登録をされている方向けに、詳しい情報を提供します。
 
 登録前に必要な情報は [http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html](http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html) を確認してください。
@@ -36,15 +37,6 @@ permalink: /dojo/2018/
 - モノを作って SXSW に持っていく「[Todai to Texas](http://todaitotexas.com)」
 - 技術シーズの事業化を担う「[EDGE Next](https://www.ducr.u-tokyo.ac.jp/activity/venture/education/edge.html)」
 
-
-## 講師からのメッセージ
-
-#### 馬田からのメッセージ
-
-アントレプレナー道場は授業でもあり、14年続くコミュニティでもあります。A1 ではすでに経営者になった人や、少し先を歩みだしている先輩方と交流できる機会も用意しています。
-
-何かを始めることできっとやりたいことも見つかるはずです。またアントレプレナーシップを学んでみて、やっぱり違ったという場合も、自分の向き不向きを知るうえで重要なことです。この授業が皆さんのキャリアに新しい選択肢を提供できることを願っています。
-
 ## Quick Links
 
 - [提出済みスタートアップチェックサーチ](./search/)
@@ -60,8 +52,6 @@ permalink: /dojo/2018/
 
 ### S1 での宿題
 
-S1 での宿題をまとめています。
-
 | 回 | Assignments | Additional |
 | --- | --- | --- |
 | 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/18 18:00 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
@@ -69,18 +59,11 @@ S1 での宿題をまとめています。
 
 ## 配布物や資料
 
-配布次第こちらに掲載していきます。
-
 ### S1 での配布物や資料
 
 | 回 | Handouts | 授業資料 |
 | --- | --- | --- |
 | 4/11 | なし | [資料](https://drive.google.com/open?id=1vA5hSDBWT1POn402DxZt700uURvyi9hC) |
-
-
-## オフィスアワー (Office Hour)
-
-実施の際にこちらで告知します。
 
 ## キーワード
 
@@ -90,7 +73,7 @@ S1 での宿題をまとめています。
 
 ## 補講と関連イベント
 
-以下の日程で関連イベントを実施します。参加者は必ず事前に登録してください。
+以下の日程でオフィスアワーや関連イベントを実施します。参加者は必ず事前に登録してください。
 
 | 日付 | 内容 |
 | --- | --- |
