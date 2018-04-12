@@ -4,6 +4,10 @@ title: アントレプレナー道場 2018
 permalink: /dojo/2018/
 ---
 
+本ページでは、東京大学アントレプレナーシップ道場の受講生向けのページです。既にアントレ道場に受講登録をされている方向けに、詳しい情報を提供します。
+
+登録前に必要な情報は [http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html](http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html) を確認してください。
+
 ## アントレプレナーシップとは
 
 2018年度のアントレ道場におけるアントレプレナーシップの定義は「**自らのコントロール可能な範囲を越えて好機とリソースを追い求め、社会の課題を解決することにより新たな価値を創造して、それを維持可能な形で提供し続けること**」と定めています。
@@ -22,7 +26,6 @@ permalink: /dojo/2018/
 | S1 | スタートアップの考え方やアイデアの見つけ方 |
 | S2 |スタートアップを成長させるための知識やスキル  |
 | A1 | 学んできたものを実践する |
-
 
 その中でも S1, S2 は、これまでスタートアップに触れたことがないような学生の皆さん向けに、座学中心の内容となっています。
 
@@ -61,7 +64,7 @@ S1 での宿題をまとめています。
 
 | 回 | Assignments | Additional |
 | --- | --- | --- |
-| 4/11 | [サーベイ 1 個 (4/16 23:59 締切)]() <br> 評価（各自メールをチェック、4/18 18:00 締切） | [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
+| 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/18 18:00 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
 
 
 ## 配布物や資料
@@ -72,7 +75,7 @@ S1 での宿題をまとめています。
 
 | 回 | Handouts | 授業資料 |
 | --- | --- | --- |
-| 4/11 | なし | |
+| 4/11 | なし | [資料](https://drive.google.com/open?id=1vA5hSDBWT1POn402DxZt700uURvyi9hC) |
 
 
 ## オフィスアワー (Office Hour)
@@ -92,7 +95,7 @@ S1 での宿題をまとめています。
 | 日付 | 内容 |
 | --- | --- |
 | 4/12 (木) 18:00 - 18:30 | [Pre-UTokyo 1000k 説明会](https://www.eventbrite.com/e/pre-utokyo-1000k-tickets-44974153905) |
-| 4/13 (月) 19:00 - 20:00 | [サーベイ宿題に関する Q&A](https://www.eventbrite.com/e/qa-tickets-44750538064) |
+| 4/16 (月) 19:00 - 20:00 | [サーベイ宿題に関する Q&A](https://www.eventbrite.com/e/qa-tickets-44750538064) |
 
 
 ## グラフィックシラバス
