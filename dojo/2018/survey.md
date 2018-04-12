@@ -3,14 +3,14 @@ layout: mailinglist
 title: アントレプレナー道場 2018 宿題マニュアル
 permalink: /dojo/2018/homework/
 ---
-## 海外スタートアップのサーベイ方法のヒント
+## 海外スタートアップのサーベイ
 
 1. 候補となるスタートアップを探します
     1. 探し方は[こちらの記事](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2)を参照してください
 1. 気になる海外スタートアップの名前を見つけたら、[アントレ道場サーチ](https://www.hongotechgarage.com/dojo/search/)を開きます
 1. 既に検索結果に登録されていないかどうかをチェックします
 1. すでに登録されていれば 1 に戻ります。登録がなければ次へ進みます。
-1. [宿題提出用 Google Forms (Week 1)](https://goo.gl/forms/a7j58vQoqJTSpEbL2) を開いて、分析するべき項目とフォームを確認します
+1. [宿題提出用 Google Forms (Week 1)](https://goo.gl/forms/14fKVGCgLpMVGHgh2) を開いて、分析するべき項目とフォームを確認します
 1. そのスタートアップのページを見たり、実際に使ってみたりしながら、フォームを埋めていきます
     1. それぞれの入力項目は43文字までです。短くまとめてください。
     1. 画像はまずは CrunchBase に掲載されている企業ロゴを右クリックして、「画像のアドレスをコピー」するとよいと思います。
@@ -26,7 +26,18 @@ permalink: /dojo/2018/homework/
 また、[Y Comobinator のデモデーの記事](https://jp.techcrunch.com/tag/y-combinator-demo-day/)を読んでみると、生まれれたばかりのいくつかの興味深いスタートアップが見つかるでしょう。
 
 
+#### サーベイの参考資料
+
+サーベイの参考にしてください。
+
+- [スタートアップの調べ方](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2)
+- [サーベイをしよう](https://medium.com/@tumada/startup-idea-survey-3f4e7a5aa2f7)
+
 ### FAQ
+
+#### Q. ジョブをまだいまいち理解できていません…
+
+受講者向けページにある参考文献を読んだり、ネットで「ジョブ理論」を検索して資料を読むと理解が深まると思います。
 
 #### Q. 2013 年以降の創業かどうかのチェックはどうすればいいですか？
 
@@ -44,7 +55,7 @@ CrunchBase でその会社のことを検索すると、ほとんどの場合、
 
 Google で英語で任意のキーワードと一緒に「market size」と検索すると出てくることが多いです。
 
-#### Q. 画像の URL はどのように調べればいいでしょうか？
+#### Q. 画像の URL はどのように調べればいいでしょうか？#### Q. 画像の URL はどのように調べればいいでしょうか？
 
 CrunchBase のロゴを使うところから始めてみると良いと思います。CHrome の場合は、画像を右クリックして「画像のアドレスをコピー」すれば画像の URL を取得できます。
 ![画像のURL](../images/copy_address.PNG)
