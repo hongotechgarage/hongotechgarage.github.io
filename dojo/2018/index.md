@@ -101,14 +101,16 @@ Pre-UTokyo 1000k では毎週異なるテーマに対してピッチコンテス
 
 ### 締切とフォーム
 
+
 | 締切 | テーマ | 応募フォーム | 発表会 |
 | --- | --- | --- | --- |
 | 4/16 (月) | 移動と輸送 | [応募フォーム](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) | 4/18 (水) 20:30 ～ 21:00 |
-| 4/23 (月) | 医療とヘルスケア | [応募フォーム](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) | 4/18 (水) 20:30 ～ 21:00 |
-| 4/30 (月) | お金と社会保障 | [応募フォーム](https://goo.gl/forms/XZIaSf5tEzlpjLNy1) | 4/18 (水) 20:30 ～ 21:00 |
-| 5/7 (月) | エネルギーと資源 | [応募フォーム](https://goo.gl/forms/ZkUFw9cjYZilldWm1) | 4/18 (水) 20:30 ～ 21:00 |
-| 5/14 (月) | 生活、家事、都市 | [応募フォーム](https://goo.gl/forms/YseMruKLAoSE6IQ83) | 4/18 (水) 20:30 ～ 21:00 |
-| 5/21 (月) | 大学教育と働き方  | [応募フォーム](https://goo.gl/forms/0pEd23EVP4uFVo8s1) | 4/18 (水) 20:30 ～ 21:00 |
+| 4/23 (月) | 医療とヘルスケア | [応募フォーム](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) | 4/25 (水) 20:30 ～ 21:00 |
+| 4/30 (月) | お金と社会保障 | [応募フォーム](https://goo.gl/forms/XZIaSf5tEzlpjLNy1) | 5/2 (水) 20:30 ～ 21:00 |
+| 5/7 (月) | エネルギーと資源 | [応募フォーム](https://goo.gl/forms/ZkUFw9cjYZilldWm1) | 5/9 (水) 20:30 ～ 21:00 |
+| 5/14 (月) | 生活、家事、都市 | [応募フォーム](https://goo.gl/forms/YseMruKLAoSE6IQ83) | 5/16 (水) 20:30 ～ 21:00 |
+| 5/21 (月) | 大学教育と働き方  | [応募フォーム](https://goo.gl/forms/0pEd23EVP4uFVo8s1) | 5/23 (水) 20:30 ～ 21:00 |
+
 
 
 ### pre-1000k のアイデアの条件
