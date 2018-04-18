@@ -866,10 +866,9 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 - [ブログ](https://medium.com/@tumada/)
 - [Slideshare](https://www.slideshare.net/takaumada/presentations)
 
-
 #### 著作
 
-- [逆説のスタートアップ思考]() (2017/03) ([元になったスライド]())
+- [逆説のスタートアップ思考](http://amzn.asia/7tQk2y9) (2017/03) ([元になったスライド]())
 
 #### 講演
 
@@ -880,8 +879,8 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 - [Global Tech EDGE NEXTシンポジウム　〜世界を変えるビジネスも、スタートはタネ。〜](https://www.sanrenhonbu.tsukuba.ac.jp/20171202sympo/) (モデレーター) (2017/12/02)
 - [Product Manager Conference 2017](http://2017.pmconf.jp) (2017/11/15)
 - [シンポジウム 博士の選択 2017 ～これからの博士・ポスドクのキャリアを考える～](http://www.he.u-tokyo.ac.jp/2017/10/04/4088) (2017/10/28)
-- [本郷スタートアップご近所さん会](https://hongo.club/) (20917/10/07)
-- [日経 D3 Week 2017](http://expo.nikkeibp.co.jp/d3/2017/) (2017/07/27)
+- [本郷スタートアップご近所さん会](https://hongo.club/) (2017/10/07)
+- [日経 D3 Week 2017](http://expo.nikkeibp.co.jp/d3/2017/) 基調講演 + 講演 (2017/07/27)
 - [２人で共同創業。スタートアップで成功を掴むための法則](https://bnventr0705.peatix.com) (2017/07/05) ([講演資料](https://www.slideshare.net/takaumada/startup-cofounder-skill))
 - [京都大学　超交流会](http://www.johogaku.net/sn2017) (2017/06/17)
 - [未踏ジュニアキャンプ 2018](http://jr.mitou.org/camp/) (2017/04/01)
