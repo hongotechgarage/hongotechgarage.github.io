@@ -868,7 +868,7 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 
 #### 著作
 
-- [逆説のスタートアップ思考](http://amzn.asia/7tQk2y9) (2017/03) ([元になったスライド]())
+- [逆説のスタートアップ思考](http://amzn.asia/7tQk2y9) (2017/03) ([元になったスライド](https://www.slideshare.net/takaumada/startup-paradox-thinking))
 
 #### 講演
 
