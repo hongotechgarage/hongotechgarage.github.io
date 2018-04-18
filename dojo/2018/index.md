@@ -54,7 +54,8 @@ permalink: /dojo/2018/
 
 | 回 | Assignments | Additional |
 | --- | --- | --- |
-| 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/18 18:00 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
+| 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/23 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
+| 4/18 | [サーベイ 2 個 (4/23 23:59 締切)](https://goo.gl/forms/24Qdk1aMx45LORaD3) <br> 評価（各自メールをチェック、4/18 18:00 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 医療とヘルスケア](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) |
 
 
 ## 配布物や資料
