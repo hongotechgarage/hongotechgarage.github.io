@@ -866,9 +866,13 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 - [ブログ](https://medium.com/@tumada/)
 - [Slideshare](https://www.slideshare.net/takaumada/presentations)
 
+
 #### 著作
 
 - [逆説のスタートアップ思考](http://amzn.asia/7tQk2y9) (2017/03) ([元になったスライド](https://www.slideshare.net/takaumada/startup-paradox-thinking))
+    - [第47回ビジネスブックマラソン大賞受賞](http://www.chuko.co.jp/laclef/online/interview/150578_102269.html)
+    - [韓国語版発刊](http://www.yes24.com/24/goods/59258186) (2018/03)
+    - 中国語版 2018 年秋予定
 
 #### 講演
 
@@ -883,7 +887,8 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 - [日経 D3 Week 2017](http://expo.nikkeibp.co.jp/d3/2017/) 基調講演 + 講演 (2017/07/27)
 - [２人で共同創業。スタートアップで成功を掴むための法則](https://bnventr0705.peatix.com) (2017/07/05) ([講演資料](https://www.slideshare.net/takaumada/startup-cofounder-skill))
 - [京都大学　超交流会](http://www.johogaku.net/sn2017) (2017/06/17)
-- [未踏ジュニアキャンプ 2018](http://jr.mitou.org/camp/) (2017/04/01)
+- [未踏ジュニアキャンプ 2017](http://jr.mitou.org/camp/) (2017/04/01)
+- [Developers Summit 2017](https://event.shoeisha.jp/devsumi/20170216/) (2017/02/17) 満足度一位受賞 ([講演資料](https://www.slideshare.net/takaumada/paradoxical-startup-career-thinking))
 - [Japan Product Manager Conference 2016](http://2016.pmconf.jp) (2016/10/24) ([講演資料](https://www.slideshare.net/takaumada/zero-to-product-manager))
 
 その他企業内講演等。
