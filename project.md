@@ -12,26 +12,12 @@ permalink: /project/
 
 プロジェクトにはいくつかの種類を用意しています。
 
-1. Tinkering Fund (数日〜 4 週間ぐらいのプロジェクト)
 1. Project Fund (1 ヶ月間ぐらいのプロジェクト)
 1. Founders Program (夏休み/春休みのプロジェクト)
 1. (ガレージ公共プロジェクト)
 
-**1. Tinkering Fund**
 
-アイデアのいじくり回し (tinkering) を推奨するための支援です。
-
-約 1 万円までの支援金を使って、例えば以下の種類のプロジェクトなどを実施いただけます。
-
-- アイデアの模索
-- 技術的な検討
-- 顧客候補へのインタビュー
-
-数日〜4週間ぐらいのプロジェクトでの利用を想定しています。常時受け付けており、審査が通り次第すぐに始めていただけます。
-
-[-> Tinkering Fund 申請フォーム](https://goo.gl/forms/Ko1OBOO40K0IYRu02)
-
-**2. Project Fund**
+**1. Project Fund**
 
 毎月 1 日から月末まで行われる、一ヶ月間のプロジェクト支援金です。
 
@@ -41,7 +27,7 @@ permalink: /project/
 
 [-> Project Fund 申請フォーム](https://goo.gl/forms/GDY1ZduycrfHG4XD3)
 
-**3. 長期休み限定の Summer / Spring Founders Program (SFP)**
+**2. 長期休み限定の Summer / Spring Founders Program (SFP)**
 
 夏休みと春休みに行われる、数十万円を支援するプログラムとして SFP を設けています。開発からデプロイまでを実施いただきます。
 
@@ -50,7 +36,7 @@ permalink: /project/
 なお、Tinkering Fund や Project Fund に採択されたプロジェクトも SFP に応募いただけます。
 
 
-**4. ガレージ公共プロジェクト**
+**3. ガレージ公共プロジェクト**
 
 本郷テックガレージを良くするための公共プロジェクトへの参加を随時募集しています。
 
