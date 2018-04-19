@@ -33,7 +33,7 @@ permalink: /project/
 
 それぞれ夏休み前と春休み前に、[産学協創推進本部の Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)で募集しています。
 
-なお、Tinkering Fund や Project Fund に採択されたプロジェクトも SFP に応募いただけます。
+なお、 Fund や Project Fund に採択されたプロジェクトも SFP に応募いただけます。
 
 
 **3. ガレージ公共プロジェクト**
@@ -66,7 +66,7 @@ permalink: /project/
 
 一度相談したいときには、随時開催されているアイデア相談会をご活用ください。
 
-- Project Fund や Tinkering Fund に応募するかどうか迷っている
+- Project Fund に応募するかどうか迷っている
 - 自分のアイデアが本郷テックガレージの支援する対象になるかどうか分からない
 
 [-> アイデア相談会応募フォーム](https://calendly.com/umada/meet/)
