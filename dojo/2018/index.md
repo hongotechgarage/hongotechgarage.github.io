@@ -65,6 +65,7 @@ permalink: /dojo/2018/
 | 回 | Handouts | 授業資料 |
 | --- | --- | --- |
 | 4/11 | なし | [資料](https://drive.google.com/open?id=1vA5hSDBWT1POn402DxZt700uURvyi9hC) |
+| 4/12 | [アイデア評価のルーブリック](https://drive.google.com/open?id=12jaB4xC25wpn_fh9fMBeX5TnsKgu4lqf) <br />[アントレプレナーのルーブリック](https://drive.google.com/open?id=1sAKIo5TUPlau2Kt4NEZn6YI_XVpopeq6)) | [資料](https://drive.google.com/open?id=1zmjPXfZ9Twuyam9ZUFUvCyFq_ootLwgq) |
 
 ## キーワード
 
