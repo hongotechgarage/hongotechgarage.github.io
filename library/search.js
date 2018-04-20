@@ -22,8 +22,8 @@ search.addWidget(
 var hitTemplate =
   '<div class="hit media">' +
     '<div class="media-body">' +
-      '<h4 class="media-heading"><a href="{{{startup_url}}} ">{{{_highlightResult.startup_name.value}}}</a></h4>' +
-      '<p>{{{_highlightResult.oneliner.value}}}</p>' +
+      '<h4 class="media-heading">{{{_highlightResult.Title.value}}}</h4>' +
+      '<p>{{{_highlightResult.Author.value}}}</p>' +
     '</div>' +
   '</div>';
 
