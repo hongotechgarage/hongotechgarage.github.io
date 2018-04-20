@@ -461,6 +461,10 @@ Stanford University のキャリアセンターのリソース集です。他大
 
 #### Books
 
+
+**[New Venture Creation](https://www.amazon.com/New-Venture-Creation-Entrepreneurship-Management/dp/0077862481)**
+多くの MBA の授業で使われる教科書です。
+
 **[アナタはなぜチェックリストを使わないのか？](http://amzn.asia/iTlJUMa)**
 
 #### Lectures
