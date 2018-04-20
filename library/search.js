@@ -4,7 +4,7 @@ var search = instantsearch({
   appId: 'WH144ECNIJ',
   apiKey: '8f39f2931f2bbd6215841c8aa2036406',
   indexName: 'garage_library',
-  urlSync: {}
+  urlSync: true
 });
 
 search.addWidget(
