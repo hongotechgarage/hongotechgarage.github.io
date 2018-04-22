@@ -7,7 +7,7 @@ permalink: /dojo/2018/homework/
 
 1. 候補となるスタートアップを探します
     1. 探し方は[こちらの記事](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2)を参照してください
-1. 気になる海外スタートアップの名前を見つけたら、[アントレ道場サーチ](https://www.hongotechgarage.com/dojo/search/)を開きます
+1. 気になる海外スタートアップの名前を見つけたら、[アントレ道場サーチ](https://www.hongotechgarage.com/dojo/2018/search/)を開きます
 1. 既に検索結果に登録されていないかどうかをチェックします
 1. すでに登録されていれば 1 に戻ります。登録がなければ次へ進みます。
 1. 宿題提出用 Google Forms を開いて、分析するべき項目とフォームを確認します
