@@ -1,6 +1,6 @@
 ---
 layout: calendar
-title: 本郷テックガレージ　カレンダー
+title: イベントカレンダー
 permalink: /calendar/
 ---
 
