@@ -56,6 +56,7 @@ permalink: /dojo/2018/
 | --- | --- | --- |
 | 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/23 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
 | 4/18 | [サーベイ 2 個 (4/23 23:59 締切)](https://goo.gl/forms/24Qdk1aMx45LORaD3) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 医療とヘルスケア](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) |
+| 4/25 | [自分のアイデア提出 (5/1 23:59 締切)](https://goo.gl/forms/EsLkXpsHMhjze2Gb2) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k お金と社会保障](https://goo.gl/forms/Gyfm48vrXXIzIcmg2) |
 
 
 ## 配布物や資料
@@ -65,7 +66,9 @@ permalink: /dojo/2018/
 | 回 | Handouts | 授業資料 |
 | --- | --- | --- |
 | 4/11 | なし | [資料](https://drive.google.com/open?id=1vA5hSDBWT1POn402DxZt700uURvyi9hC) |
-| 4/12 | [アイデア評価のルーブリック](https://drive.google.com/open?id=12jaB4xC25wpn_fh9fMBeX5TnsKgu4lqf) <br />[アントレプレナーのルーブリック](https://drive.google.com/open?id=1sAKIo5TUPlau2Kt4NEZn6YI_XVpopeq6)) | [資料](https://drive.google.com/open?id=1zmjPXfZ9Twuyam9ZUFUvCyFq_ootLwgq) |
+| 4/18 | [アイデア評価のルーブリック](https://drive.google.com/open?id=12jaB4xC25wpn_fh9fMBeX5TnsKgu4lqf) <br />[アントレプレナーのルーブリック](https://drive.google.com/open?id=1sAKIo5TUPlau2Kt4NEZn6YI_XVpopeq6)) | [資料](https://drive.google.com/open?id=1zmjPXfZ9Twuyam9ZUFUvCyFq_ootLwgq) |
+| 4/25 | [アイデア評価のルーブリック](https://drive.google.com/open?id=12jaB4xC25wpn_fh9fMBeX5TnsKgu4lqf) <br />[アントレプレナーのルーブリック](https://drive.google.com/open?id=1sAKIo5TUPlau2Kt4NEZn6YI_XVpopeq6))  | [資料](https://drive.google.com/open?id=1XMqBF0KASbvcZMbXuCOOjyKUcKsGFC6k) |
+
 
 ## キーワード
 
@@ -81,6 +84,8 @@ permalink: /dojo/2018/
 | --- | --- |
 | 4/12 (木) 18:00 - 18:30 | [Pre-UTokyo 1000k 説明会](https://www.eventbrite.com/e/pre-utokyo-1000k-tickets-44974153905) |
 | 4/16 (月) 19:00 - 20:00 | [サーベイ宿題に関する Q&A](https://www.eventbrite.com/e/qa-tickets-44750538064) |
+| 4/20 (金) 19:00 - 20:00 | エレファンテック株式会社へのオフィスツアー |
+| 5/7 (月) 17:00 - 18:00 | 株式会社情報医療へのオフィスツアー |
 
 
 ## グラフィックシラバス
