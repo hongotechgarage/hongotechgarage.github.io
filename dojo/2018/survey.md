@@ -4,6 +4,75 @@ title: アントレプレナー道場 2018 宿題マニュアル
 permalink: /dojo/2018/homework/
 ---
 
+## 社会的インパクトのあるアイデアとコンテストの選択
+
+### 社会的インパクトのあるアイデア
+
+これまでのアイデア発想の手法を使って、社会的インパクトの大きいスタートアップのアイデアを考えてみてください。
+
+条件は以下の通りです。
+
+- 100億円のリソースがある
+- 周りからの盤石な評判がある
+- 社会的インパクトのある事業を行う
+
+### コンテストの選択
+
+2017 年以降に開催されたもので、賞金がつくものをリスト化しています。以下のコンテストから出場してもいいかなと思えるものを 3 つ以上選択して提出してください。
+
+ただし実際には、コンテストへの出場のためにプランを練るよりも、実際にプロダクトを作って顧客に届けて学んだほうが事業やプロジェクトの進捗は出やすい傾向にあります。そうした進捗のある事業やプロジェクトのさらなるリソース獲得のために、こうしたコンテストを活用することをお勧めします。
+
+#### 国内
+
+- [【ビジネス】 Tokyo Startup Gateway (100万円)](http://tokyo-startup.jp)
+- [【技術】 IPA 未踏 (200万円)](https://www.ipa.go.jp/jinzai/mitou/portal_index.html)
+- [【技術】 IPA 未踏アドバンスト (1000万円)](https://www.ipa.go.jp/about/kobo/kobo20180308.html)
+- [【技術】 異能vation (プロジェクトごとに調整)](http://www.inno.go.jp)
+- [【技術】 JST SCORE (社会還元加速プログラム) (プロジェクトごとに調整)](https://www.jst.go.jp/start/score/jigyo/index.html)
+- [【社会課題】 日経ソーシャルビジネスコンテスト (100万円)](http://social.nikkei.co.jp)
+- [【社会課題】 ビジネス・アクセラレーション・プログラム・アワード (100万円)](http://incf-contest.mri.co.jp)
+- [【宇宙】 S-Booster (1000万円)](https://s-booster.jp)
+- [【ロボット】 Japan Innovation Challenge (2000万円)](https://www.innovation-challenge.jp)
+- [【ビジネス】 キャンパスベンチャーグランプリ (100万円)](http://www.cvg-nikkan.jp)
+- [【技術】 Mashup Awards (100万円)](http://mashupaward.jp)
+- [【技術】 Gugen (50万円)](https://gugen.jp)
+- [【ビジネス】 女性新ビジネスプランコンペティション (1000万円)](https://www.jeri.or.jp/wec/competition/)
+- [【ビジネス】 Tongali (80万円)](http://tongali.aip.nagoya-u.ac.jp/biz-contest/)
+- [【技術】 TechCrunch Tokyo スタートアップバトル (100万円)](https://jp.techcrunch.com/2017/09/20/10days-startup-battle/)
+- [【ビジネス】 荒川区ビジネスコンテスト (50万円)](https://www.arakawa-bpc.com)
+- [【ビジネス】 MIT-VFJビジネスプランニングクリニック＆コンテスト for Innovation and Entrepreneurship (BPCC-IE) (150万円)](http://mit-vf.jp)
+- [【ビジネス】 横浜ビジネスグランプリ (100万円)](http://www.idec.or.jp/kigyo/ybg/final/)
+- [【技術】 Microsoft Innovation Award (100万円)](https://www.microsoft.com/ja-jp/startups/mia)
+
+#### 国際
+
+- [【社会課題】 Hult Prize ($1,000,000)](http://www.hultprize.org)
+- [【ビジネス】 RICE Business Plan Competition ($1,300,000)](https://rbpc.rice.edu)
+- [【技術】 MIT Clean Energy Challenge ($100,000)](http://cep.mit.edu)
+- [【技術】 Thiel Fellpwship ($100,000)](http://thielfellowship.org)
+- [【ビジネス】 International Business Model Competition ($30,000)](http://www.businessmodelcompetition.com)
+- [【技術】 James Dyson Award (€30,000)](http://www.jamesdysonfoundation.jp)
+- [【技術】 Microsoft Imagine Cup ($1,000,000)](https://imagine.microsoft.com/ja-jp/Country/JP)
+- [【技術】 Hello Tommorow Global Challenge ($300,000)](https://hello-tomorrow.org)
+- [【技術】 X Prize ($1,000,000)](https://www.xprize.org)
+- [【ビジネス】 2018 Shark Tank of Wellness Student Global Competition ($10,000)](https://www.globalwellnesssummit.com/2018-global-wellness-summit/2018-shark-tank-wellness-student-competition/)
+- [【ロボット】 MBZIRC ($5,000,000)](https://www.mbzirc.com)
+- [【ビジネス】 GLOBAL BUSINESS CHALLENGE ($1,000,000)](http://globalbusinesschallenge.org)
+- [【ビジネス】 Asian Entrepreneurship Award (AEA) ($1,000,000)](http://aea.events/j/)
+
+#### 東京大学
+
+- [【ビジネス】 東京大学アントレプレナーチャレンジ (数十万円予定)](http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html)
+- [【技術】UTokyo 1000k (賞金総額 100 万円)](https://www.ducr.u-tokyo.ac.jp/activity/venture/utokyo1000k.html)
+- [【技術】Summer/Spring Founders Program (プロジェクトへの数十万円までの支援)](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)
+
+#### その他のコンテスト
+
+- [Grand Challenge](https://grandchallenges.org)
+- [Student Competition](https://studentcompetitions.com)
+
+
+
 
 ## コンセプトマップのヒント (5/2 の宿題、5/8 締切)
 
