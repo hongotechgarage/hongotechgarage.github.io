@@ -366,13 +366,35 @@ Note and Vote だけを詳しく知りたい場合はこちらを参照してく
 **[Enlightenment Now](http://amzn.asia/bM3pwzq)**
 Pinker 前著『暴力の人類史』でカバーしていたもの以外も含めて、データなどを用いて、世界が良くなっていることを示しています。また科学や合理的思考、そして啓蒙の現代における重要性について語っている書籍です。（馬田）
 
+**[Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think](http://amzn.asia/imkjAmP)**
+実は自分たちが思っているよりも世界は良くなっているんだというのを事実をベースに語ってくれます。（馬田）
+
+**[ファスト&スロー](http://amzn.asia/elzk1KX)**
+私たちの認識をゆがめる認知バイアスについて詳細に描かれています。
+
+**[つながり 社会的ネットワークの驚くべき力](http://amzn.asia/94CVd2i)**
+どのように人のつながりが人の行動を変えるかといった社会的ネットワーク分析の本ですが、幸福は伝染する、などの興味深い研究なども含まれています。（馬田）
+
 **[観光客の哲学](http://amzn.asia/cHDnGgI)**
+現代において人々が新たにかつ適度につながるための「観光」という概念を整理してくれています。
+
+**[成功する人は偶然を味方にする--運と成功の経済学](https://www.amazon.co.jp/dp/4532357233/)**
+人生における幸運の役割と公共投資の重要性について、重要な示唆を与えてくれます。自分たちの才能が自分たちの努力だけによらず、多くの環境や運に左右されていることを知ることで、社会への貢献や公共への投資の見方が変わってくるはずです。（馬田）
+
+**[教養としての社会保障](http://amzn.asia/bT8EfhO)**
+自助、互助、共助、公助の背景やセーフティネットの重要性について、歴史的な経緯と現代的な意味とを踏まえて分かりやすく語っている本です。社会というものがいかに構成されているかを知るうえでも便利です。（馬田）
+
+
+**[偶然性・アイロニー・連帯―リベラル・ユートピアの可能性](http://amzn.asia/7Vd4zXo)**
+公共性を考えるうえで、ローティのこの著作は今でも色あせないヒントを与えてくれます。
+
+**[これからの正義の話をしよう](http://amzn.asia/iTlJUMa)**
 
 
 #### Articles
 
 **[GSG国内諮問委員会](http://impactinvestment.jp)**
-国内の各種レポートなどがまとまっています。（馬田）
+社会的インパクトに関する国内の各種レポートなどがまとまっています。（馬田）
 
 **[SDGs（持続可能な開発目標）　持続可能な開発のための2030アジェンダ](http://www.mofa.go.jp/mofaj/gaiko/oda/about/doukou/page23_000779.html)**
 昨今話題になるSDGsに関する日本でのサイトです。
@@ -383,11 +405,20 @@ Y Combinator による。自動字幕付きなどにすれば英語がそれほ�
 **[日本の中長期ビジョンの検討に関する調査](http://www.meti.go.jp/meti_lib/report/H28FY/000280.pdf)**
 日本の中期ビジョンに関する 2017 年の調査です。少し視点は偏っているようにも思いますが、現代日本の課題を確認するうえでは便利でしょう。
 
+**[世界について無知にならないために](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world?language=ja)**
+Factfulness の著者による TED の講演です。
+
+**[The Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being)**
+社会的意義と個人の幸福 (well-being) についての科学的知見を与えてくれる Yale の授業です。
+
 **[Global Trends](https://www.dni.gov/index.php/global-trends-home)**
 CIA によるグローバルトレンドの最新版です。
 
 **[Human Progress](https://humanprogress.org)**
 人類の進歩に関するデータなどがまとまっています。
+
+**[仕事と幸福度の研究](https://medium.com/@tumada/仕事と幸福度の研究-6a3d855f187f)**
+仕事と幸福度についての研究をまとめています。
 
 ### Week 6 (5/16) / スタートアップで働くというキャリア
 
@@ -408,14 +439,6 @@ CEO や創業者としてスタートアップにかかわる手段というわ�
 **[イノベーション・オブ・ライフ ハーバード・ビジネススクールを巣立つ君たちへ](http://amzn.asia/a7uOrL4)**
 クリステンセンによる、経営学の手法を自分の人生やキャリアに活かしてみる、という本であり、プライベートも含め自分のキャリアを考えるうえでいくつもの示唆を与えてくれる本でしょう。（馬田）
 
-**[成功する人は偶然を味方にする--運と成功の経済学](https://www.amazon.co.jp/dp/4532357233/)**
-人生における幸運の役割と公共投資の重要性について、重要な示唆を与えてくれます。自分たちの才能が自分たちの努力だけによらず、多くの環境や運に左右されていることを知ることで、社会への貢献や公共への投資の見方が変わってくるはずです。（馬田）
-
-**[つながり 社会的ネットワークの驚くべき力](http://amzn.asia/94CVd2i)**
-どのように人のつながりが人の行動を変えるかといった社会的ネットワーク分析の本ですが、幸福は伝染する、などの興味深い研究なども含まれています。（馬田）
-
-**[教養としての社会保障](http://amzn.asia/bT8EfhO)**
-自助、互助、共助、公助の背景やセーフティネットの重要性について、歴史的な経緯と現代的な意味とを踏まえて分かりやすく語っている本です。社会というものがいかに構成されているかを知るうえでも便利です。（馬田）
 
 **[世界で闘うプログラミング力を鍛える本 コーディング面接189問とその解法](http://amzn.asia/e5UKp5b)**
 プログラミングに関してですが、実践的な質問や心構えについて身に着けるうえで多くの人が読んでいる書籍です。問題集としても役立ちます。（馬田）
@@ -438,13 +461,8 @@ Paul Graham が Y Combinator を始めるきっかけになったハーバード
 **[ベンチャーの実態　（上）](http://blog.livedoor.jp/lionfan/archives/52909351.html)[（中）](http://blog.livedoor.jp/lionfan/archives/52909376.html)[（下）](http://blog.livedoor.jp/lionfan/archives/52909387.html)**
 スタートアップで働くということがどういうことかを解説してくれています。
 
-**[Coursera - The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being)**
-Yale University で1000人以上が受講すると言われている Well-being に関する授業のオンライン版です。
-
 **[逆説のキャリア思考](https://www.slideshare.net/takaumada/paradoxical-startup-career-thinking)**
 馬田によるスライドです。
-
-**[仕事と幸福度の研究](https://medium.com/@tumada/仕事と幸福度の研究-6a3d855f187f)**
 
 **[Google Careers Students](https://careers.google.com/students/)**
 Google が学生向けに出している、こうした能力を身に着けると良いという方針がまとめられています。コンピュータサイエンス系が中心になっていますが、他の企業や領域でも使えるTipsになっています。
@@ -454,10 +472,6 @@ Google が学生向けに出している、こうした能力を身に着ける�
 
 **[Stanford Career Education (BEAM: Bridging Education, Ambition & Meaningful Work)](https://beam.stanford.edu/students/digital-resources)**
 Stanford University のキャリアセンターのリソース集です。他大学のキャリアセンターよりもリソースが多く、お勧めです（ポスドクや Ph.D 向けのものもあります）。
-
-**[偶然性・アイロニー・連帯―リベラル・ユートピアの可能性](http://amzn.asia/7Vd4zXo)**
-
-**[これからの正義の話をしよう](http://amzn.asia/iTlJUMa)**
 
 
 
