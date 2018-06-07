@@ -8,9 +8,7 @@ permalink: /program/study/
 
 本郷テックガレージでは、学生主体の技術勉強会の支援を行っています。
 
-承認が降りた場合、支援金や作業場所、数十万円分のクラウド環境、計算機環境などが利用可能になります。
-
-また勉強会用の食事代などを支援します。
+また勉強会用に必要な書籍代の一部などを支援します。
 
 開催のスケジュールなどは[本郷テックガレージのカレンダー](../../calendar/)を参照してください。
 
@@ -18,9 +16,21 @@ permalink: /program/study/
 
 技術に関係する以下のような勉強会を支援しています。
 
-- オンライン授業の共同受講
-- 相互勉強会
-- お弁当会
+1. 勉強会
+1. お弁当LT会
+1. オンライン授業の共同受講
+
+### 勉強会
+
+お互いのスキルを教え合ったり、一緒に勉強したりする、一般的なスタイルの勉強会です。
+
+**[→ 相互勉強会申請フォーム](https://goo.gl/forms/XgzW4XZQ4qJ5ctbh2)**
+
+### お弁当LT
+
+お弁当を食べながら LT をする会です。気軽な開催が可能です。
+
+**[-> お弁当LT申請フォーム](https://goo.gl/forms/doFyhoVDQwG4cKZc2)**
 
 ### オンライン授業の共同受講
 
@@ -38,19 +48,7 @@ permalink: /program/study/
 - Robotics (https://www.coursera.org/specializations/robotics)
 - Google Machine Learning Crash Course (https://developers.google.com/machine-learning/crash-course/)
 
-[-> Coursera 勉強会参加者応募フォーム](https://goo.gl/forms/zKFkCSUvpLJ8BiIK2)
-
-### 相互勉強会
-
-お互いのスキルを教え合う勉強会です。
-
-[-> 相互勉強会申請フォーム](https://goo.gl/forms/XgzW4XZQ4qJ5ctbh2)
-
-### お弁当LT
-
-お弁当を食べながら LT をする会です。
-
-[-> お弁当LT申請フォーム](https://goo.gl/forms/doFyhoVDQwG4cKZc2)
+**[-> Coursera 勉強会参加者応募フォーム](https://goo.gl/forms/zKFkCSUvpLJ8BiIK2)**
 
 
 
