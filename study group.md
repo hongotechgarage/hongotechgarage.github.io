@@ -56,7 +56,7 @@ permalink: /program/study/
 
 趣旨とあっているかどうかなど、一度相談したいときには、随時開催されているアイデア相談会をご活用ください。
 
-[-> 馬田への相談時間申請フォーム](https://calendly.com/umada/meet/)
+[-> 馬田への相談時間申請フォーム](https://www.meetingbird.com/l/tumada/garagemeeting)
 
 # 過去の勉強会
 

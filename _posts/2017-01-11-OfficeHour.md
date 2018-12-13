@@ -10,6 +10,6 @@ author: tumada
 
 本郷テックガレージを利用したことのない方もご利用いただけます。以下のサイトからご登録下さい。
 
-[https://calendly.com/umada/meeting](https://calendly.com/umada/meeting)
+[https://www.meetingbird.com/l/tumada/garagemeeting](https://www.meetingbird.com/l/tumada/garagemeeting)
 
 なお、ガレージ利用者は随時ご相談に来ていただいて結構です。
