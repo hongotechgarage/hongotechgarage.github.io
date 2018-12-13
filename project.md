@@ -67,7 +67,7 @@ permalink: /project/
 - Project Fund に応募するかどうか迷っている
 - 自分のアイデアが本郷テックガレージの支援する対象になるかどうか分からない
 
-[-> アイデア相談会応募フォーム](https://calendly.com/umada/meet/)
+[-> アイデア相談会応募フォーム](https://www.meetingbird.com/l/tumada/garagemeeting)
 
 
 # 過去のプロジェクト
