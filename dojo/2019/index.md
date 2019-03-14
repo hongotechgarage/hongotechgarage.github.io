@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
-title: アントレプレナー道場 2018
-permalink: /dojo/2018/
+title: アントレプレナー道場 2019
+permalink: /dojo/2019/
 ---
 
 
@@ -11,7 +11,7 @@ permalink: /dojo/2018/
 
 ## アントレプレナーシップとは
 
-2018年度のアントレ道場におけるアントレプレナーシップの定義は「**自らのコントロール可能な範囲を越えて好機とリソースを追い求め、社会の課題を解決することにより新たな価値を創造して、それを維持可能な形で提供し続けること**」と定めています。
+2019年度のアントレ道場におけるアントレプレナーシップの定義は「**自らのコントロール可能な範囲を越えて好機とリソースを追い求め、社会の課題を解決することにより新たな価値を創造して、それを維持可能な形で提供し続けること**」と定めています。
 
 これは Harvard Business School の教授である Stevenson の “Entrepreneurship is the pursuit of opportunity beyond the resources you currently control” (Stevenson 1983, 1985, 1990) を参考にしたものです。今回はこれに加えて、社会課題の解決による価値の創造と、持続可能な形で提供すること（多くの場合は経済的利益を得てビジネスとして維持できること）を条件として付けくわえています。
 
@@ -20,13 +20,13 @@ permalink: /dojo/2018/
 
 ## 授業の構成
 
-2018年度のアントレプレナー道場は 3 つのセメスターに分かれて開講しています。それぞれのセメスターでは以下のような授業構成となっています。
+2019年度のアントレプレナー道場は 3 つのセメスターに分かれて開講しています。それぞれのセメスターでは以下のような授業構成となっています。
 
 |S| 内容 |
 | --- | --- |
-| S1 | スタートアップの考え方やアイデアの見つけ方 |
-| S2 |スタートアップを成長させるための知識やスキル  |
-| A1 | 学んできたものを実践する |
+| S1 | スタートアップの考え方やキャリア |
+| S2 | スタートアップを成長させるための知識やスキル  |
+| A1 | 学んできたものの実践 |
 
 その中でも S1, S2 は、これまでスタートアップに触れたことがないような学生の皆さん向けに、座学中心の内容となっています。
 
@@ -40,8 +40,6 @@ permalink: /dojo/2018/
 ## Quick Links
 
 - [提出済みスタートアップチェックサーチ](./search/)
-- [アントレ道場 2018 Scrapbox](https://scrapbox.io/entre2018/)
-- [アントレ道場 Slack](https://entredojo2018.slack.com/) ([iPhone App](https://itunes.apple.com/jp/app/slack/id618783545?mt=8)/[Android App](https://play.google.com/store/apps/details?id=com.Slack&hl=ja))
 - [アントレ道場公式 Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html)
 
 ## 宿題
@@ -52,22 +50,31 @@ permalink: /dojo/2018/
 
 ### S1 での宿題
 
+<!--
+
 | 回 | Assignments | Additional |
 | --- | --- | --- |
 | 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/23 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
 | 4/18 | [サーベイ 2 個 (4/23 23:59 締切)](https://goo.gl/forms/24Qdk1aMx45LORaD3) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 医療とヘルスケア](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) |
 | 4/25 | [自分のアイデア提出 (5/1 23:59 締切)](https://goo.gl/forms/EsLkXpsHMhjze2Gb2) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k お金と社会保障](https://goo.gl/forms/Gyfm48vrXXIzIcmg2) |
 
+-->
 
 ## 配布物や資料
 
 ### S1 での配布物や資料
+
+
+<!--
 
 | 回 | Handouts | 授業資料 |
 | --- | --- | --- |
 | 4/11 | なし | [資料](https://drive.google.com/open?id=1vA5hSDBWT1POn402DxZt700uURvyi9hC) |
 | 4/18 | [アイデア評価のルーブリック](https://drive.google.com/open?id=12jaB4xC25wpn_fh9fMBeX5TnsKgu4lqf) <br />[アントレプレナーのルーブリック](https://drive.google.com/open?id=1sAKIo5TUPlau2Kt4NEZn6YI_XVpopeq6)) | [資料](https://drive.google.com/open?id=1zmjPXfZ9Twuyam9ZUFUvCyFq_ootLwgq) |
 | 4/25 | [アイデア評価のルーブリック](https://drive.google.com/open?id=12jaB4xC25wpn_fh9fMBeX5TnsKgu4lqf) <br />[アントレプレナーのルーブリック](https://drive.google.com/open?id=1sAKIo5TUPlau2Kt4NEZn6YI_XVpopeq6))  | [資料](https://drive.google.com/open?id=1XMqBF0KASbvcZMbXuCOOjyKUcKsGFC6k) |
+
+
+-->
 
 
 ## キーワード
@@ -77,7 +84,7 @@ permalink: /dojo/2018/
 ジョブ、プログレス、プロジェクトマネジメント、BMLループ、仮説検証、カンバン (Kanban / kanban)、WIP、TOC、スループット、ボトルネック、リスクマネジメント、スケジュール、フロー効率性とリソース効率性、リードタイム、ゆとり、リフレクション、KPT、モメンタム、リズム、規律、アイデア、リサーチ、観察、サーベイ、顧客開発、インタビュー手法、リーンスタートアップ、リーンキャンバス、プロダクト、メトリクス、マジックモーメント、ファシリテーション、UX、カスタマージャーマップ、スケーリング（グロース）、グロースハック、プロダクトマーケットフィット (Product/Market Fit: PMF)、研究開発、開発方法論、知財戦略、特許、イノベーションのジレンマ、調達活動、学習、プロトタイピング、インベンションとイノベーション、B2C マーケティング、B2B マーケティング、STP、4P、セールス、初期顧客獲得、リードジェネレーション、契約、カスタマーサクセス、ビジネスモデル、サポート、パートナーシップ、規制、ロビイング活動、3C、ビジネスモデル、バリューチェーン、競争優位性、戦略キャンバス、戦略マップ、ビジョン、資源の調達（採用、資金）、投資家の仕組み、ピッチ、創業株主間契約、共同創業者マネジメント、チーム、フィードバック手法、採用、心理的安全性、OKR、1 on 1、リーダーシップ、ミッション、ビジョン、バリュー、文化
 
 ## 補講と関連イベント
-
+<!-- 
 以下の日程でオフィスアワーや関連イベントを実施します。参加者は必ず事前に登録してください。
 
 | 日付 | 内容 |
@@ -85,82 +92,18 @@ permalink: /dojo/2018/
 | 4/12 (木) 18:00 - 18:30 | [Pre-UTokyo 1000k 説明会](https://www.eventbrite.com/e/pre-utokyo-1000k-tickets-44974153905) |
 | 4/16 (月) 19:00 - 20:00 | [サーベイ宿題に関する Q&A](https://www.eventbrite.com/e/qa-tickets-44750538064) |
 | 4/20 (金) 19:00 - 20:00 | エレファンテック株式会社へのオフィスツアー |
-| 5/7 (月) 17:00 - 18:00 | 株式会社情報医療へのオフィスツアー |
+| 5/7 (月) 17:00 - 18:00 | 株式会社情報医療へのオフィスツアー | -->
 
-
+<!-- 
 ## グラフィックシラバス
 
 コースの全体像です。企業の成長と講義の内容をマップしています。
 
 数字は何回目かの講義を示しています。S1 では主にスタートアップの初期を、S2 では初期から中期にかけて必要となる知識をゲスト講師とともに説明していきます。
 
-![image.png](./images/graphic_syllabus.png)
+![image.png](./images/graphic_syllabus.png) -->
 
 
-
-
-
-## Pre-UTokyo 1000k について
-
-アントレ道場の直後に、UTokyo 1000k の一環のプログラムである Pre-UTokyo 1000k を実施します。
-
-Pre-UTokyo 1000k では毎週異なるテーマに対してピッチコンテストを行い、優勝したアイデアに 5 万円の副賞を提供します。
-
-### 締切とフォーム
-
-
-| 締切 | テーマ | 応募フォーム | 発表会 |
-| --- | --- | --- | --- |
-| 4/16 (月) | 移動と輸送 | [応募フォーム](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) | 4/18 (水) 20:30 ～ 21:00 |
-| 4/23 (月) | 医療とヘルスケア | [応募フォーム](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) | 4/25 (水) 20:30 ～ 21:00 |
-| 4/30 (月) | お金と社会保障 | [応募フォーム](https://goo.gl/forms/XZIaSf5tEzlpjLNy1) | 5/2 (水) 20:30 ～ 21:00 |
-| 5/7 (月) | エネルギーと資源 | [応募フォーム](https://goo.gl/forms/ZkUFw9cjYZilldWm1) | 5/9 (水) 20:30 ～ 21:00 |
-| 5/14 (月) | 生活、家事、都市 | [応募フォーム](https://goo.gl/forms/YseMruKLAoSE6IQ83) | 5/16 (水) 20:30 ～ 21:00 |
-| 5/21 (月) | 大学教育と働き方  | [応募フォーム](https://goo.gl/forms/0pEd23EVP4uFVo8s1) | 5/23 (水) 20:30 ～ 21:00 |
-
-
-
-### pre-1000k のアイデアの条件
-
-- 現在利用可能なテクノロジを利用すること（実現不可能なアイデアはNG）
-- シェアリングビジネスやマッチングビジネス、人材紹介業、クラウドファンディング以外のアイデアであること
-
-### Pre-1000k の進め方
-
-- 賞金は毎週 5 万円
-- 基準を超えるものがなければ 1000k Pitch の賞金に繰り越し加算します
-- プロダクトのアイデアを特定のフォーマット (https://www.slideshare.net/takaumada/startup-pitch-template3min) に落とし込んでください
-- 毎週月曜日EODに締切です
-- 火曜日に3チーム選出します。スライド修正は水曜日 12:00 までです。必ず事前提出していただきます。
-- 毎週水曜日 20:30 から3チームが3分ずつピッチして、ゲスト講師と先生方が評価します（Q&Aはナシ、最終講評のみ）
-- 審査員が評価中に来週のテーマ解説とスタートアップの例を紹介します
-
-## UTokyo 1000k
-
-### 概要
-
-[オフィシャルWebページはこちら](https://www.ducr.u-tokyo.ac.jp/activity/venture/utokyo1000k.html)です。
-
-| 日程 | 時間 | マイルストーン |
-| --- | --- | --- |
-| 5/31 (木) | 23:59 | 最終締め切り |
-| 6/2 (土) | 13:00 ～ 20:00 | 一次審査 Pitch |
-| 6/9 (土) | 10:00 ～ 13:00 | Semi-Final Pitch |
-| 6/9 (土) | 15:00 ～ 20:00 | Final Pitch |
-
-
-
-#### 技術部門
-
-賞金：50 万円
-
-東大発の研究や技術が入っていること
-
-#### テーマ部門
-
-賞金：10 万円
-
-「時間を作り出すアイデア」
 
 
 ## Readings
@@ -498,7 +441,7 @@ Y Combinator による 2017年度版のレクチャーです。翻訳は東京�
 **[Startup Playbook](http://playbook.samaltman.com)**
 Y Combinator の Sam Altman による、スタートアップ全体の概要についてコンパクトにまとまった記事です。（馬田）
 
-**[Y Combinator: Investor School 2018](https://investor.startupschool.org)**
+**[Y Combinator: Investor School 2019](https://investor.startupschool.org)**
 Y Combinator による投資家向け講義シリーズです。投資家の視点を養うときに便利なリソースです。（馬田）
 
 **[pmarca blog](https://pmarchive.com)**
@@ -620,7 +563,7 @@ John Maeda による毎年のデザインレポートです。
 
 # 教育者向け情報
 
-アントレプレナーシップ教育者向けに、どのようにアントレプレナー道場2018を設計したかの情報を提供します。
+アントレプレナーシップ教育者向けに、どのようにアントレプレナー道場2019を設計したかの情報を提供します。
 
 ## 講義ログ
 
