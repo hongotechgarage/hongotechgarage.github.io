@@ -24,14 +24,15 @@ permalink: /dojo/2019/
 
 |S| 内容 |
 | --- | --- |
-| S1 | スタートアップの考え方やキャリア |
-| S2 | スタートアップを成長させるための知識やスキル  |
+| S1 | スタートアップのアイデアとキャリア |
+| S2 | スタートアップの知識とフィールドワーク  |
 | A1 | 学んできたものの実践 |
 
 その中でも S1, S2 は、これまでスタートアップに触れたことがないような学生の皆さん向けに、座学中心の内容となっています。
 
 今すぐ実践を通して学びたい、という場合は、他のプログラムである以下のプログラムなどを活用してください。
 
+- 5/9 締め切りの東大生限定ビジネスモデルコンテスト「[アントレプレナーチャレンジ](https://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html)」
 - 数万円の開発補助費が出る「[本郷テックガレージ Project Fund](https://www.hongotechgarage.com/project/)」
 - 夏休みに実際のモノづくりを通して学ぶ「[Summer Founders Program](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)」
 - モノを作って SXSW に持っていく「[Todai to Texas](http://todaitotexas.com)」
@@ -42,6 +43,10 @@ permalink: /dojo/2019/
 - [提出済みスタートアップチェックサーチ](./search/)
 - [アントレ道場公式 Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html)
 
+## 注意
+
+- 必ず Mailchimp からのメールを受け取れるようにしてください
+
 ## 宿題
 
 今年度のアントレプレナー道場ではいくつかの宿題を用意しています。毎週 30 分から1時間程度かかることを想定してください。
@@ -50,11 +55,15 @@ permalink: /dojo/2019/
 
 ### S1 での宿題
 
-<!--
 
-| 回 | Assignments | Additional |
-| --- | --- | --- |
-| 4/11 | [サーベイ 1 個 (4/16 23:59 締切)](https://goo.gl/forms/CVl1qFfMwiEG3v3N2) <br> 評価（各自メールをチェック、4/23 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
+
+| 回 | Assignments | Additional
+| --- | --- | ---- |
+| 4/10 | [簡易サーベイ (4/15 23:59 締切)]() | 
+
+
+<!--
+[Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
 | 4/18 | [サーベイ 2 個 (4/23 23:59 締切)](https://goo.gl/forms/24Qdk1aMx45LORaD3) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 医療とヘルスケア](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) |
 | 4/25 | [自分のアイデア提出 (5/1 23:59 締切)](https://goo.gl/forms/EsLkXpsHMhjze2Gb2) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k お金と社会保障](https://goo.gl/forms/Gyfm48vrXXIzIcmg2) |
 
@@ -154,8 +163,7 @@ Facebook の VP of Growth による事業成長の方法についてです。Mag
 **[Intercom on Jobs to be done](https://www.intercom.com/books/jobs-to-be-done)**
 スタートアップである Intercom による Jobs to be done の解説資料です。（馬田）
 
-**[ペルソナかJobs-to-Be-Doneか
-](https://u-site.jp/alertbox/personas-jobs-be-done)**
+**[ペルソナかJobs-to-Be-Doneか](https://u-site.jp/alertbox/personas-jobs-be-done)**
 従来のペルソナやニーズといった概念と job の概念がどう違っていて、どう同じなのかを考えるうえで参考になる記事です。（馬田）
 
 ### スタートアップを始める前に
@@ -832,14 +840,16 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 
 - [ブログ](https://medium.com/@tumada/)
 - [Slideshare](https://www.slideshare.net/takaumada/presentations)
+- [ポートフォリオサイト](https://www.takaumada.com/)
 
 
 #### 著作
 
 - [逆説のスタートアップ思考](http://amzn.asia/7tQk2y9) (2017/03) ([元になったスライド](https://www.slideshare.net/takaumada/startup-paradox-thinking))
-    - [第47回ビジネスブックマラソン大賞受賞](http://www.chuko.co.jp/laclef/online/interview/150578_102269.html)
-    - [韓国語版発刊](http://www.yes24.com/24/goods/59258186) (2018/03)
-    - 中国語版 2018 年秋予定
+  - [第47回ビジネスブックマラソン大賞受賞](http://www.chuko.co.jp/laclef/online/interview/150578_102269.html)
+  - [韓国語版発刊](http://www.yes24.com/24/goods/59258186) (2018/03)
+  - 中国語版 2019 年予定
+- [成功する起業家は居場所を選ぶ](https://www.amazon.co.jp/dp/4822289532)
 
 #### 講演
 
