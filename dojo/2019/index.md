@@ -56,13 +56,15 @@ permalink: /dojo/2019/
 ### S1 での宿題
 
 
-
 | 回 | Assignments | Additional
 | --- | --- | ---- |
-| 4/10 | [簡易サーベイ (4/15 23:59 締切)]() | 
+| 4/10 | [簡易サーベイ (4/15 23:59 締切)](https://forms.gle/Nw7uTpKmijckLT7F8) | 
 
 
 <!--
+
+[宿題のヒント](https://www.hongotechgarage.com/dojo/2019/assignment/)
+
 [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
 | 4/18 | [サーベイ 2 個 (4/23 23:59 締切)](https://goo.gl/forms/24Qdk1aMx45LORaD3) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 医療とヘルスケア](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) |
 | 4/25 | [自分のアイデア提出 (5/1 23:59 締切)](https://goo.gl/forms/EsLkXpsHMhjze2Gb2) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k お金と社会保障](https://goo.gl/forms/Gyfm48vrXXIzIcmg2) |
