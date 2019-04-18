@@ -59,6 +59,7 @@ permalink: /dojo/2019/
 | 回 | Assignments | Additional
 | --- | --- | ---- |
 | 4/10 | [簡易サーベイ (4/15 23:59 締切)](https://forms.gle/Nw7uTpKmijckLT7F8) | 
+| 4/17 | [3つのスタートアップサーベイ]() | [宿題のヒント](./assignment)
 
 
 <!--
