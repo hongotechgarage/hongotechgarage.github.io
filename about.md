@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
 title: About
-permalink: /
+permalink: /about/
 ---
 
 # 本郷テックガレージとは
