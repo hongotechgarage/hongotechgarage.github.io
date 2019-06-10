@@ -1,5 +1,5 @@
 ---
-layout: mailinglist
+layout: home_2019
 title: About
 permalink: /
 ---
