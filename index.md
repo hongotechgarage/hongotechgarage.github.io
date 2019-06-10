@@ -4,6 +4,12 @@ title: About
 permalink: /
 ---
 
+# お知らせ
+SFPの募集を開始しました。
+
+詳細は[こちら](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)
+
+
 # 本郷テックガレージとは
 
 東京大学の学生が技術的なサイドプロジェクトを行うための秘密基地です。
