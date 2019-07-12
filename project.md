@@ -6,7 +6,7 @@ permalink: /project/
 
 # 技術プロジェクトの新規応募を受付中
 
-本郷テックガレージでは、誰かの課題を解決する技術系プロジェクトの新規応募を通年で受け付けています。
+本郷テックガレージでは、誰かの課題を解決する技術系プロジェクトの新規応募を受け付けています。
 
 承認が降りた場合、支援金や工作機械、作業場所、数十万円分のクラウド環境が利用可能になります。
 
@@ -14,8 +14,6 @@ permalink: /project/
 
 1. Project Fund (1 ヶ月間ぐらいのプロジェクト)
 1. Founders Program (夏休み/春休みのプロジェクト)
-1. (ガレージ公共プロジェクト)
-
 
 **1. Project Fund**
 
@@ -23,7 +21,8 @@ permalink: /project/
 
 4 万円までの支援金を使って、ある程度アイデアが定まった技術的なプロジェクトを進めていただけます。なお、期間中のピボット（方向転換）も許可しています。
 
-[-> Project Fund 申請フォーム](https://goo.gl/forms/GDY1ZduycrfHG4XD3)
+SFP2019実施期間中は募集を停止しています。
+<!-- [-> Project Fund 申請フォーム](https://goo.gl/forms/GDY1ZduycrfHG4XD3) -->
 
 **2. 長期休み限定の Summer / Spring Founders Program (SFP)**
 
@@ -31,14 +30,8 @@ permalink: /project/
 
 それぞれ夏休み前と春休み前に、[産学協創推進本部の Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)で募集しています。
 
-なお、 Fund や Project Fund に採択されたプロジェクトも SFP に応募いただけます。
+なお、 Project Fund に採択されたプロジェクトも SFP に応募いただけます。
 
-
-**3. ガレージ公共プロジェクト**
-
-本郷テックガレージを良くするための公共プロジェクトへの参加を随時募集しています。
-
-現在やりたいプロジェクトはないけれど、本郷テックガレージを使いたいという方は公共プロジェクトにご参加ください。
 
 # アイデアを考える際に
 
@@ -60,14 +53,14 @@ permalink: /project/
 - テクノロジの関わらないサービス
 - ビジネス主体のプロダクト
 
-# アイデア相談会（随時）
+<!-- # アイデア相談会（随時）
 
 一度相談したいときには、随時開催されているアイデア相談会をご活用ください。
 
 - Project Fund に応募するかどうか迷っている
 - 自分のアイデアが本郷テックガレージの支援する対象になるかどうか分からない
 
-[-> アイデア相談会応募フォーム](https://www.meetingbird.com/l/kmatsui/techgarage)
+[-> アイデア相談会応募フォーム](https://www.meetingbird.com/l/kmatsui/techgarage) -->
 
 
 # 過去のプロジェクト
