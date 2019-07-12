@@ -5,10 +5,7 @@ permalink: /
 ---
 
 # お知らせ
-SFPの募集を開始しました。
-
-詳細は[こちら](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)
-
+SFPの応募を締切ました。たくさんのご応募大変ありがとうございました。
 
 # 本郷テックガレージとは
 
