@@ -30,7 +30,7 @@ SFP2019実施期間中は募集を停止しています。
 
 それぞれ夏休み前と春休み前に、[産学協創推進本部の Web ページ](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)で募集しています。
 
-なお、 Fund や Project Fund に採択されたプロジェクトも SFP に応募いただけます。
+なお、 Project Fund に採択されたプロジェクトも SFP に応募いただけます。
 
 
 # アイデアを考える際に
