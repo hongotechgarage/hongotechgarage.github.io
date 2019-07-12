@@ -17,7 +17,9 @@ SFPの応募を締切ました。たくさんのご応募大変ありがとう�
 
 〒113-0033
 
-東京都文京区本郷5-24-5 角川本郷ビル 2F ([Google Map](https://goo.gl/maps/jweyFvu4e7q))
+東京都文京区本郷5-24-5 ナガセ本郷ビル 2F ([Google Map](https://goo.gl/maps/jweyFvu4e7q))
+
+(※ 旧名: 角川本郷ビル)
 
 [19 時以降のアクセスについてはこちらを参照](http://www.hongotechgarage.com/access/)して下さい。
 
