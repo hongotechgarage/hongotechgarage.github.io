@@ -1,6 +1,6 @@
 ---
 layout: home_2019
-title: About
+title: 本郷テックガレージ
 permalink: /
 ---
 
