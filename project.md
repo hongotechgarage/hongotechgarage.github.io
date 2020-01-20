@@ -21,7 +21,7 @@ permalink: /project/
 
 4 万円までの支援金を使って、ある程度アイデアが定まった技術的なプロジェクトを進めていただけます。なお、期間中のピボット（方向転換）も許可しています。
 
-<!-- SFP2019実施期間中は募集を停止しています。 -->
+Spring Founders Program実施中のため、現在募集を停止しています。再開は、2020年3月を予定しています。
 [-> Project Fund 申請フォーム](https://goo.gl/forms/GDY1ZduycrfHG4XD3)
 
 **2. 長期休み限定の Summer / Spring Founders Program (SFP)**
@@ -184,6 +184,3 @@ permalink: /project/
 - 研究成果を活かしたセンサネットワークの Arduino 実装 (第一回東大IPC起業支援プログラム採択)
 - 新しい測定法を用いた距離メーター
 - パーソナルモビリティを意識した新しいサスペンション機構
-
-
-
