@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
-title: アントレプレナー道場 2019 Slack 解説
-permalink: /dojo/2019/slack/
+title: アントレプレナー道場 2020 Slack 解説
+permalink: /dojo/2020/slack/
 ---
 
 ## アントレ道場 Slack チャンネルの解説
