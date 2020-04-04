@@ -1,11 +1,11 @@
 ---
 layout: mailinglist
-title: アントレプレナー道場 2019 宿題マニュアル
-permalink: /dojo/2019/assignment/
+title: アントレプレナー道場 2020 宿題マニュアル
+permalink: /dojo/2020/assignment/
 ---
 
 
-## 海外スタートアップのサーベイ (4/23 までの宿題)
+## 海外スタートアップのサーベイ (4/21 までの宿題)
 
 海外のスタートアップのサーベイをしてきてください。[フォームはこちらです](https://forms.gle/kXhQ8isUJiDqe4Xv6)。
 

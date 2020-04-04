@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
-title: アントレプレナー道場 2019 アントレチャレンジ
-permalink: /dojo/2019/challenge/
+title: アントレプレナー道場 2020 アントレチャレンジ
+permalink: /dojo/2020/challenge/
 ---
 
 
