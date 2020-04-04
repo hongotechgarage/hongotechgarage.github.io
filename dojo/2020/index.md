@@ -1,7 +1,7 @@
 ---
 layout: mailinglist
-title: アントレプレナー道場 2019
-permalink: /dojo/2019/
+title: アントレプレナー道場 2020
+permalink: /dojo/2020/
 ---
 
 
@@ -11,7 +11,7 @@ permalink: /dojo/2019/
 
 ## アントレプレナーシップとは
 
-2019年度のアントレ道場におけるアントレプレナーシップの定義は「**自らのコントロール可能な範囲を越えて好機とリソースを追い求め、社会の課題を解決することにより新たな価値を創造して、それを維持可能な形で提供し続けること**」と定めています。
+2020年度のアントレ道場におけるアントレプレナーシップの定義は「**自らのコントロール可能なリソースの限界を超えて機会を追求し、社会の課題を解決することで新たな価値を創造して、それを維持可能な形で提供し続けること**」と定めています。
 
 これは Harvard Business School の教授である Stevenson の “Entrepreneurship is the pursuit of opportunity beyond the resources you currently control” (Stevenson 1983, 1985, 1990) を参考にしたものです。今回はこれに加えて、社会課題の解決による価値の創造と、持続可能な形で提供すること（多くの場合は経済的利益を得てビジネスとして維持できること）を条件として付けくわえています。
 
@@ -20,19 +20,18 @@ permalink: /dojo/2019/
 
 ## 授業の構成
 
-2019年度のアントレプレナー道場は 3 つのセメスターに分かれて開講しています。それぞれのセメスターでは以下のような授業構成となっています。
+2020年度のアントレプレナー道場は 3 つのセメスターに分かれて開講しています。それぞれのセメスターでは以下のような授業構成となっています。
 
 |S| 内容 |
 | --- | --- |
-| S1 | スタートアップのアイデアとキャリア |
-| S2 | スタートアップの知識とフィールドワーク  |
-| A1 | 学んできたものの実践 |
+| S1 | スタートアップの基礎知識とキャリア |
+| S2 | 演習  |
 
 その中でも S1, S2 は、これまでスタートアップに触れたことがないような学生の皆さん向けに、座学中心の内容となっています。
 
 今すぐ実践を通して学びたい、という場合は、他のプログラムである以下のプログラムなどを活用してください。
 
-- 5/9 締め切りの東大生限定ビジネスモデルコンテスト「[アントレプレナーチャレンジ](https://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html)」
+- 東大生限定ビジネスアイデアコンテスト「[アントレプレナーチャレンジ](https://www.ducr.u-tokyo.ac.jp/activity/venture/education/dojo.html)」
 - 数万円の開発補助費が出る「[本郷テックガレージ Project Fund](https://www.hongotechgarage.com/project/)」
 - 夏休みに実際のモノづくりを通して学ぶ「[Summer Founders Program](http://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)」
 - モノを作って SXSW に持っていく「[Todai to Texas](http://todaitotexas.com)」
@@ -58,13 +57,11 @@ permalink: /dojo/2019/
 
 | 回 | Assignments | Additional
 | --- | --- | ---- |
-| 4/10 | [簡易サーベイ (4/15 23:59 締切)](https://forms.gle/Nw7uTpKmijckLT7F8) | 
-| 4/17 | [3つのスタートアップサーベイ](https://forms.gle/kXhQ8isUJiDqe4Xv6) | [宿題のヒント](./assignment)
 
 
 <!--
 
-[宿題のヒント](https://www.hongotechgarage.com/dojo/2019/assignment/)
+[宿題のヒント](https://www.hongotechgarage.com/dojo/2020/assignment/)
 
 [Pre-UTokyo 1000k 移動と輸送](https://goo.gl/forms/c3zJzKDAIPx0vPOv2) |
 | 4/18 | [サーベイ 2 個 (4/23 23:59 締切)](https://goo.gl/forms/24Qdk1aMx45LORaD3) <br> 評価（各自メールをチェック、4/30 23:59 締切） | [宿題のヒント](./homework/) <br> [Pre-UTokyo 1000k 医療とヘルスケア](https://goo.gl/forms/Xnx4Lfu5LtYwEqbA3) |
@@ -452,7 +449,7 @@ Y Combinator による 2017年度版のレクチャーです。翻訳は東京�
 **[Startup Playbook](http://playbook.samaltman.com)**
 Y Combinator の Sam Altman による、スタートアップ全体の概要についてコンパクトにまとまった記事です。（馬田）
 
-**[Y Combinator: Investor School 2019](https://investor.startupschool.org)**
+**[Y Combinator: Investor School 2020](https://investor.startupschool.org)**
 Y Combinator による投資家向け講義シリーズです。投資家の視点を養うときに便利なリソースです。（馬田）
 
 **[pmarca blog](https://pmarchive.com)**
@@ -574,7 +571,7 @@ John Maeda による毎年のデザインレポートです。
 
 # 教育者向け情報
 
-アントレプレナーシップ教育者向けに、どのようにアントレプレナー道場2019を設計したかの情報を提供します。
+アントレプレナーシップ教育者向けに、どのようにアントレプレナー道場2020を設計したかの情報を提供します。
 <!-- 
 ## 講義ログ
 
@@ -851,7 +848,7 @@ University of Toronto 卒業後、日本マイクロソフトでの Visual Studi
 - [逆説のスタートアップ思考](http://amzn.asia/7tQk2y9) (2017/03) ([元になったスライド](https://www.slideshare.net/takaumada/startup-paradox-thinking))
   - [第47回ビジネスブックマラソン大賞受賞](http://www.chuko.co.jp/laclef/online/interview/150578_102269.html)
   - [韓国語版発刊](http://www.yes24.com/24/goods/59258186) (2018/03)
-  - 中国語版 2019 年予定
+  - 中国語版 2020 年予定
 - [成功する起業家は居場所を選ぶ](https://www.amazon.co.jp/dp/4822289532)
 
 #### 講演
