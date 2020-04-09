@@ -20,14 +20,12 @@ permalink: /dojo/2020/
 
 ## 授業の構成
 
-2020年度のアントレプレナー道場は 3 つのセメスターに分かれて開講しています。それぞれのセメスターでは以下のような授業構成となっています。
+2020年度のアントレプレナー道場は 2 つのセメスターに分かれて開講しています。それぞれのセメスターでは以下のような授業構成となっています。
 
 |S| 内容 |
 | --- | --- |
 | S1 | スタートアップの基礎知識とキャリア |
 | S2 | 演習  |
-
-その中でも S1, S2 は、これまでスタートアップに触れたことがないような学生の皆さん向けに、座学中心の内容となっています。
 
 今すぐ実践を通して学びたい、という場合は、他のプログラムである以下のプログラムなどを活用してください。
 
@@ -434,6 +432,8 @@ Stanford University のキャリアセンターのリソース集です。他大
 
 #### Books
 
+**[スタートアップ入門](https://www.amazon.co.jp/dp/4130421514)**  
+担当講師の長谷川によるスタートアップの基礎知識の教科書です。
 
 **[New Venture Creation](https://www.amazon.com/New-Venture-Creation-Entrepreneurship-Management/dp/0077862481)**
 多くの MBA の授業で使われる教科書です。
@@ -569,154 +569,6 @@ John Maeda による毎年のデザインレポートです。
 **[できる研究者の論文生産術 どうすれば「たくさん」書けるのか](http://amzn.asia/eoiYUI6)**
 執筆を習慣化させることで生産的になります。レポートではそこまで求めませんが、
 こうした意識で論文やレポートに向かうと良い結果が出ると思います。
-
-
-# 教育者向け情報
-
-アントレプレナーシップ教育者向けに、どのようにアントレプレナー道場2020を設計したかの情報を提供します。
-<!-- 
-## 講義ログ
-
-| 回 | 講義スケジュール | 事前準備 |
-| --- | --- | --- |
-| 4/11 (水) | Spreadsheet | Gavel |
-| 4/18 (水) | Spreadsheet | Gavel |
-| 4/25 (水) | Spreadsheet | Gavel |
-| 5/2 (水) | Spreadsheet | Gavel |
-| 5/9 (水) | Spreadsheet | Gavel |
-| 5/16 (水) | Spreadsheet | Gavel |
-| 5/23 (水) | Spreadsheet | Gavel | -->
-
-
-## 前提条件
-
-今回のアントレプレナー道場の特徴は、
-
-- スタートアップなどをあまり知らない工学部生を対象に
-- 300名以上が同時受講する
-- 成績評価が必要
-
-というものです。そのため、今回利用する手法は少人数制のコースに比べて一部非効率だったり、場合によってはもっと実践を兼ねるクラス設計が適切な場合もあります（ただしし東京大学では、本郷テックガレージなどで別のプログラムを擁しています）。
-
-ただしこうした教育について公開し、共有することは今後の改善に役立つほか、他大学での実践にも寄与するものと考えています。
-
-## 教授法について
-
-今回のアントレプレナー道場では、Hattie によるメタ分析を用いた教授法の効果を参考に教授法を選んでいます。
-
-
-### 一覧
-
-| 手法 | Score | 
-| --- | --- | 
-| ピアレビュー | 0.55 |  
-| フィードバック | n/a |
-| 自己質問 | 0.64 |
-| 相互教授法 | 0.74 |
-| コンセプトマップ | 0.64 |
-
-### 詳細
-
-### ピアレビュー (peer tutoring)
-
-手軽にかつ効果がある手法として採用しました。
-
-
-### フィードバック
-
-教師がフィードバックできるのが最適だとは思いますが、アントレ道場では人数が多いため、相互評価によるフィードバックを採用しています。
-
-フィードバックの基準となるルーブリックを事前に用意し、これに基づいて学生同士でフィードバックをしてもらう仕組みです。
-
-#### 実施方法
-
-- 宿題での相互評価
-- 授業中の相互評価
-
-### 自己質問
-
-自己調整学習の本なども参考にしながら設計しました。
-
-#### 実施方法
-
-- 宿題での質問
-- 授業中の Think, Pair, Share での Think
-
-### 相互教授法
-
-
-### コンセプトマップ
-
-
-## 授業で利用したツール
-
-### ルーブリック
-
-#### S1 
-
-- マインドセットルーブリック
-- 課題ルーブリック
-- レポート評価用ルーブリック
-
-### Reference
-
-授業構成の参考にしたもの。
-
-#### Entrepreneurship Education
-
-**[OECD: Entrepreneurship in Education](https://www.oecd.org/cfe/leed/BGP_Entrepreneurship-in-Education.pdf)**
-OECD がまとめたアントレプレナー教育に関するサマリーです。論文を引きつつどのようなスキルが必要かがまとまっているので、カバーするべき項目の参考にしました。
-
-**[World Bank: Entrepreneurship Education and Training Programs around the World](https://openknowledge.worldbank.org/bitstream/handle/10986/18031/9781464802027.pdf?sequence=1)**
-Mindset, Capability, Status の分類はこちらを参考にしました。
-
-**[How to Start a Startup]()**
-Y Combinator による 2015 年の Stanford での授業です。今回 S2 の授業構成の参考にしています。
-
-
-#### Education
-
-**[教育の効果](http://amzn.asia/5RnViNi)**
-教授法などをメタ分析した書籍として、教授法を選択するときの参考にしました。[Web ページの最新情報](https://visible-learning.org/nvd3/visualize/hattie-ranking-interactive-2009-2011-2015.html)も便利です。
-
-**[学習に何が最も効果的か―メタ分析による学習の可視化◆教師編◆](http://amzn.asia/9y2Mxdv)**
-同じく Hattie の本として、特にフィードバックなどの部分で参考にしました。
-
-**[学生を自己調整学習者に育てる:アクティブラー二ングのその先へ](http://amzn.asia/fh5SIyt)**
-宿題における自己調整の設問の設計の参考にしました。またメタ認知の重要性について気づかせてくれた本です。
-
-**[インタラクティブ・ティーチング―アクティブ・ラーニングを促す授業づくり](http://amzn.asia/9C2RlDQ)**
-教育手法の様々なツールセットの参考にしたほか、シラバス設計の参考にさせていただきました。
-
-**[ディープアクティブラーニング](http://amzn.asia/c8SXRgR)**
-深い学習、深い理解、深い関与の3つの水準で、より深い学びを促すための指針を参考にさせていただきました。
-
-**[たった一つを変えるだけ: クラスも教師も自立する「質問づくり」 ](http://amzn.asia/1V442DU)**
-ゲスト講師への質問の仕方についてはこの本に大きく依っています。
-
-**[「学びの責任」は誰にあるのか: 「責任の移行モデル」で授業が変わる](http://amzn.asia/5mnCezf)**
-学びへのかかわり方の4段階のモデルは大変参考になりました。
-
-**[Gradual Release of Responsibility: I do, We do, You do](http://www.sjboces.org/doc/Gifted/GradualReleaseResponsibilityJan08.pdf)**
-上記の学びの責任についての補足資料。
-
-**[10 Mindframes for Visible Learning: Teaching for Success]()**
-
-
-**[Future Faculty Program](https://www.utokyofd.com)**
-[リソース](https://www.utokyofd.com/ja/dive/resources)がまとまっています。
-
-**[+15 (PDF)](http://dalt.c.u-tokyo.ac.jp/wp-content/uploads/2016/08/plus15minutes.pdf)**
-FFP の資料です。どのような手法があるかの参考にしました。
-
-**[+15 実践編](http://dalt.c.u-tokyo.ac.jp/wp-content/uploads/2017/03/plus15minutes_practices.pdf)**
-同じくFFPの資料です。
-
-**[University of Pittsburgh: Principles of Learning](https://ifl.pitt.edu/educator-resources/)**
-話し合いのための 5 原則を参照しました。
-
-**[AACU: VALUE Rubrics](https://www.aacu.org/value-rubrics)**
-ルーブリックの参考にしました。
 
 
 
