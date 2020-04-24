@@ -7,7 +7,7 @@ permalink: /dojo/2020/assignment/
 
 ## 海外スタートアップのサーベイ (5/6 までの宿題)
 
-海外のスタートアップのサーベイをしてきてください。[フォームはこちらです](https://forms.gle/kXhQ8isUJiDqe4Xv6)。
+海外のスタートアップのサーベイをしてきてください。[フォームはこちらです](https://forms.gle/gvgVUedKcPhxXTVi9)。
 
 1. 候補となるスタートアップを探します
     1. 探し方は[こちらの記事](https://medium.com/@tumada/web-service-survey-7bceaab2f7c2)を参照してください
