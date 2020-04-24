@@ -21,7 +21,7 @@ permalink: /project/
 
 4 万円までの支援金を使って、ある程度アイデアが定まった技術的なプロジェクトを進めていただけます。なお、期間中のピボット（方向転換）も許可しています。
 
-Spring Founders Program実施中のため、現在募集を停止しています。再開は、2020年3月を予定しています。
+新型コロナウイルスに関連して、現在募集を停止しています。大変申し訳ありません。再開時期は未定です。
 [-> Project Fund 申請フォーム](https://goo.gl/forms/GDY1ZduycrfHG4XD3)
 
 **2. 長期休み限定の Summer / Spring Founders Program (SFP)**
