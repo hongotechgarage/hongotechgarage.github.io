@@ -1,5 +1,5 @@
 ---
-layout:
+layout: mailinglist
 title: Test
 permalink: /programs/test/
 ---
