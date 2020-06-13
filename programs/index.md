@@ -1,5 +1,5 @@
 ---
-layout: mailinglist
+layout: page
 title: 東大のアントレプレナーシップ関係のプログラム紹介
 permalink: /programs/
 ---
